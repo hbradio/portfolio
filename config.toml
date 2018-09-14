@@ -1,6 +1,6 @@
 baseURL = "https://brady.fyi/"
 languageCode = "en-us"
 title = "Brady Hurlburt"
-theme = "hyde"
+theme = "scientif"
 [params]
     description = "is a engineer, designer, and educator interested in helping students learn together."
