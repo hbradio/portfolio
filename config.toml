@@ -4,3 +4,6 @@ title = "Brady Hurlburt"
 theme = "scientif"
 [params]
     description = "is a engineer, designer, and educator interested in helping students learn together."
+    email = "mailto:bradyhurlburt@gmail.com"
+    twitter = "https://twitter.com/aninternetof"
+    github = "https://github.com/aninternetof"
