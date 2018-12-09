@@ -9,8 +9,8 @@ links:
   - name: "Homepage with live demo"
     url: https://rovercode.com
 pdfs:
-  - name: "Best Practices in Peer-Support Platform Design for Online Creator Platforms (in progress)"
-    url: https://drive.google.com/file/d/1zeZ5u_1fzi_jM5Ve55XXZELwAiNCtIPB/view?usp=sharing 
+  - name: "Synchronous, In-Context Peer Support for Rovercode"
+    url: /pdfs/peer-support-2018.pdf
 posts:
 
 ---
