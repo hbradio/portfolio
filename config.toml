@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Brady Hurlburt"
 theme = "scientif"
 [params]
-    description = "is an engineer, designer, and educator interested in helping students learn together."
+    description = "is an engineer, designer, and educator interested in healthy online experiences."
     email = "mailto:bradyhurlburt@gmail.com"
     twitter = "https://twitter.com/aninternetof"
     github = "https://github.com/aninternetof"

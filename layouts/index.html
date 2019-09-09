@@ -1,38 +1,34 @@
-{{ define "main" -}}
-<div class="posts">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-{{ range where .Data.Pages "Section" "projects" -}}
-<article class="post">
-  <h1 class="post-title">
-    <a href="{{ .Permalink }}">{{ .Title }}</a>
-  </h1>
-  <p>{{ .Params.description }}</p>
-  {{ range .Params.links -}}
-    <p><i class="fa fa-external-link link-icon"></i><a href="{{ .url }}">{{ .name }}</a></p>
-  {{ end }}
-  {{ range .Params.pdfs -}}
-  <p><i class="fa fa-file-pdf-o link-icon"></i><a href="{{ .url }}">{{ .name }}</a></p>
-  {{ end }}
-  {{ range .Params.posts -}}
-    <p><i class="fa fa-medium link-icon"></i><a href="{{ .url }}">{{ .name }}</a></p>
-  {{ end }}
-  <img width=400px src="{{ .Params.image }}">
-</article>
-{{- end }}
+  <title>Brady Hurlburt</title>
 
-<h1>Jobs</h1>
-{{ range where .Data.Pages "Section" "jobs" -}}
-<article class="post">
-  <p><i class="fa fa-external-link link-icon"></i><a href="{{ .Params.external_url }}">{{ .Title }}</a></p>
-</article>
-{{- end }}
+  <style type="text/css">
+    body {
+      margin: 40px auto;
+      max-width:650px;
+      line-height:1.6;
+      font-size:18px;
+      color:#444;
+      padding:0 10px
+    }
+    h1, h2, h3 {
+      line-height: 1.2
+    }
+  </style>
+  <link rel="icon" href="https://i.imgur.com/nhXR9hG.png" />
+</head>
 
-<h1>Publications</h1>
-{{ range where .Data.Pages "Section" "pubs" -}}
-<article class="post">
-  <p><i class="fa fa-file-pdf-o link-icon"></i><a href="{{ .Params.external_url }}">{{ .Title }}</a></p>
-</article>
-{{- end }}
-
-</div>
-{{- end }}
+<body>
+<h1>Hi, I'm Brady Hurlburt.</h1>
+<aside>I'm interested in designing for enriching interactions online.</aside>
+<p>I'm a senior software engineer and team lead at <a href="https://genesys.com">Genesys</a> in Indianapolis.</p>
+<p>I manage an open-source robotics programming environment for middle schoolers called <a href="https://rovercode.com">Rovercode.</a></p>
+<p>I'm a student in Georgia Tech's OMSCS program. If all goes according to plan, I should graduation in December 2019 with a focus in Interactive Intelligence. <a href="https://brady.fyi/pdfs/peer-support-2018.pdf"> Here's something I wrote</a> about Papert, Scratch, and Glitch.</p>
+<p>If you want to say hello, </p>
+</body>
+</html>
