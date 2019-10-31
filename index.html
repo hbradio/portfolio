@@ -24,46 +24,89 @@
       a {
         color: #1093D8;
       }
+
+      /* Credit: https://jarv.is/notes/css-waving-hand-emoji/ */
+      span.wave:hover, span.wave:active {
+        animation-name: wave-animation;
+        animation-duration: 2.5s;
+        animation-iteration-count: infinite;
+        transform-origin: 70% 70%;
+        display: inline-block;
+      }
+
+      @keyframes wave-animation {
+        0% {
+          transform: rotate(0deg);
+        }
+        10% {
+          transform: rotate(-10deg);
+        }
+        20% {
+          transform: rotate(12deg);
+        }
+        30% {
+          transform: rotate(-10deg);
+        }
+        40% {
+          transform: rotate(9deg);
+        }
+        50% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(0deg);
+        }
+      }
     </style>
     <link rel="icon" href="https://i.imgur.com/nhXR9hG.png" />
   </head>
 
   <body>
-    <h1>Hi, I'm Brady Hurlburt. 👋</h1>
-    <p>
-      I'm interested in <strong>the Internet and education</strong> -- online
-      social learning and healthy online interactions in general.
-    </p>
-    <img
-      height="400px;"
-      src="https://i.imgur.com/CqTNsut.jpg"
-      alt="me, coding with my dog at a brewery"
-    />
-    <p>
-      I'm a senior software engineer and team lead at
-      <a href="https://genesys.com">Genesys</a> in Indianapolis.
-    </p>
-    <p>
-      I manage an open-source robotics programming environment for middle
-      schoolers called <a href="https://rovercode.com">Rovercode</a>.
-    </p>
-    <p>
-      I'm a student in Georgia Tech's
-      <a href="https://twitter.com/GTOMSCS">OMSCS program</a>. If all goes
-      according to plan, I should graduate in December 2019 with a focus in
-      Interactive Intelligence 🎓.
-      <a href="content/pdfs/peer-support-2018.pdf"> Here's something I wrote</a>
-      involving Papert, Scratch, and Glitch. I have a BSEE and an MA in
-      Teaching. 📜
-    </p>
-    <p>My favorite bands are Big Thief, The 1975, and Phoebe Bridgers. 🎸</p>
-    <p>
-      I'd love to chat. 💬 Feel free to direct-message me on
-      <a href="https://twitter.com/aninternetof">Twitter</a> or on
-      <a href="https://keybase.io/bradyhurlburt"> Keybase</a>.
-    </p>
-    
-    <hr>
+    <header>
+      <h1>Hi, I'm Brady Hurlburt. <span class="wave">👋</span></h1>
+      <p>
+        I'm interested in <strong>the Internet and education</strong> -- online
+        social learning and healthy online interactions in general.
+      </p>
+      <img
+        height="400px;"
+        src="https://i.imgur.com/CqTNsut.jpg"
+        alt="me, coding with my dog at a brewery"
+      />
+    </header>
+    <section>
+      <p>
+        I'm a senior software engineer and team lead at
+        <a href="https://genesys.com">Genesys</a> in Indianapolis.
+      </p>
+      <p>
+        I manage an open-source robotics programming environment for middle
+        schoolers called <a href="https://rovercode.com">Rovercode</a>.
+      </p>
+      <p>
+        If all goes according to plan, I should graduate in December 2019 from
+        Georgia Tech's
+        <a href="https://twitter.com/GTOMSCS">OMSCS program</a> with a focus in
+        Interactive Intelligence 🎓.
+        <a href="content/pdfs/peer-support-2018.pdf">
+          Here's something I wrote</a
+        >
+        involving Papert, Scratch, and Glitch. I have a BSEE and an MA in
+        Teaching. 📜
+      </p>
+      <p>
+        My favorite bands are Big Thief, The 1975, and Phoebe Bridgers. 🎸 I'd
+        love to chat. 💬 Feel free to direct-message me on
+        <a href="https://twitter.com/aninternetof">Twitter</a> or on
+        <a href="https://keybase.io/bradyhurlburt"> Keybase</a>.
+      </p>
+    </section>
+
+    <hr />
+
+    <footer>
+      <small><em>move slow and fix thing</em>s</small>
+    </footer>
 
     <!-- include the Gliiitch button to show what the webpage is about and
       to make it easier for folks to view source and remix -->
