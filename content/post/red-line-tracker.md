@@ -6,7 +6,7 @@ tags:
   - Projects
 ---
 
-Ok, so it wasn't an original idea. So what? When me, my wife, and a few friends sat down at Garfield Brewing near a stop of Indianapolis' brand-new [Red Line rapid transit system](https://indyconnect.org/the-central-indiana-transit-plan/about-the-red-line/), we were beginning what we called the "Red Line Pub Crawl". And... so were the folks the table next to us.
+Ok, so it wasn't an original idea. So what? When me, my wife, and a few friends sat down at [Garfield Brewing](http://garfieldbrewery.com/) near a stop of Indianapolis' brand-new [Red Line rapid transit system](https://indyconnect.org/the-central-indiana-transit-plan/about-the-red-line/), we were beginning what we called the "Red Line Pub Crawl". And... so were the folks at the table next to us.
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/IndyGo_Red_Line_BRT.jpg/2560px-IndyGo_Red_Line_BRT.jpg" alt="A Red Line busz" caption="An IndyGo Red Line Bus. CC BY-SA 4.0 Momoneymoproblem" class="big" >}}
 
