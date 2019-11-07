@@ -12,7 +12,7 @@ Ok, so it wasn't an original idea. So what? When me, my wife, and a few friends 
 
 
 
-Inevitably, we had friends that couldn't come for the entire crawl, but wanted to meet us later along the way. So they wouldn't have to call us to see where we were, I made a little app so that we could post our location with a timestamp. 
+Inevitably, we had friends that couldn't come for the entire crawl but wanted to meet us later along the way. So they wouldn't have to call us, I made a little app so that we could post our location with a timestamp. 
 
 
 <div class="glitch-embed-wrap" style="height: 486px; width: 100%;">
