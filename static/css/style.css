@@ -1,0 +1,79 @@
+body {
+  margin: 80px auto;
+  max-width: 670px;
+  line-height: 1.6;
+  font-size: 18px;
+  color: #444;
+  padding: 0 10px;
+}
+h1,
+h2,
+h3 {
+  line-height: 1.2;
+}
+a {
+  color: #1093D8;
+}
+/* Credit: https://jarv.is/notes/css-waving-hand-emoji/ */
+span.wave:hover,
+span.wave:active {
+  animation-name: wave-animation;
+  animation-duration: 2.5s;
+  animation-iteration-count: infinite;
+  transform-origin: 70% 70%;
+  display: inline-block;
+}
+@keyframes wave-animation {
+  0% {
+    transform: rotate(0deg);
+  }
+  10% {
+    transform: rotate(-10deg);
+  }
+  20% {
+    transform: rotate(12deg);
+  }
+  30% {
+    transform: rotate(-10deg);
+  }
+  40% {
+    transform: rotate(9deg);
+  }
+  50% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+body {
+  -webkit-font-smoothings: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+code {
+  padding: 2px 4px;
+  font-size: 90%;
+  background-color: #eeeeee;
+  /* border-radius: 4px; */
+}
+
+pre {
+  display: block;
+  padding: 9.5px;
+  margin: 0 0 10px;
+  line-height: 1.4;
+  word-break: break-all;
+  word-wrap: break-word;
+  border: 1px solid #ccc;
+  /* border-radius: 4px; */
+}
+
+pre,
+code {
+  font-family: monocode, monospace;
+  -webkit-font-smoothings: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

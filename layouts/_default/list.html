@@ -1,0 +1,32 @@
+{{ partial "header.html" . }}
+<body
+  lang="{{ .Site.LanguageCode }}"
+>
+  <span class="b">/ </span>
+  <a
+    href="/"
+    >{{ .Site.Title  }}</a
+  >
+  <section>
+    <div>
+      <ul>
+        <!-- prettier-ignore -->
+        {{ range .Data.Pages.ByDate.Reverse }}
+        <li>
+          <a
+            href="{{ .RelPermalink}}"
+            >{{ .Title }}</a
+          >
+          <span
+            ><small>{{ .Date.Format "2006-01-02" }}</small></span
+          >
+        </li>
+        <!-- prettier-ignore -->
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+
+  {{ partial "footer.html" . }}
+  </body>
+</html>

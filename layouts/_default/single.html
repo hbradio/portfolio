@@ -1,0 +1,22 @@
+{{ partial "header.html" . }}
+<body
+  lang="{{ .Site.LanguageCode }}"
+  itemtype="http://schema.org/Article"
+>
+  {{ $baseurl := .Site.BaseURL }}
+  <a
+    href="/"
+    >{{ .Site.Title }}</a
+  >
+
+  <section>
+    <h1 itemprop="name" id="title">{{ .Title }}</h1>
+
+    <article itemprop="articleBody" id="content">
+      {{ .Content }}
+    </article>
+  </section>
+
+  {{ partial "footer.html" . }}
+  </body>
+</html>

@@ -1,0 +1,36 @@
+baseURL = "https://brady.fyi/"
+title = "Brady Hurlburt"
+theme ="hugo-theme-basic"
+languageCode = "en-us"
+googleAnalytics = "UA-XXXXXXXXX-X"
+enableEmoji = true 
+copyright = "Adapted from the awesome <a href='https://github.com/siegerts/hugo-theme-basic'>Hugo Theme Basic</a> by <a href='https://twitter.com/siegerts'>@siegerts</a>."
+description = "Info about Brady Hurlburt."
+relativeURLs = true
+paginate = 1
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[params]
+  titleEmoji = ":tada:"
+  twitter = "aninternetof"
+
+[Permalinks]
+  post = "post/:slug"
+
+[[params.menu]]
+  name = "blog"
+  url = "post/"
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true

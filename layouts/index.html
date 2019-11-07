@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html
+  class=""
+  lang="{{ .Site.LanguageCode }}"
+  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"
+>
+  <head>
+    <meta charset="utf-8" />
+
+    {{ partial "meta.html" . }}
+
+    <title>{{ .Site.Title }}</title>
+    <link rel="canonical" href="{{ .Permalink }}" />
+    {{ $sitetitle := .Site.Title }} {{ with .OutputFormats.Get "RSS" }}
+    <link
+      href="{{ .RelPermalink }}"
+      rel="alternate"
+      type="application/rss+xml"
+      title="{{ $sitetitle }}"
+    />
+    {{ end }} {{ partial "head_includes.html" . }}
+
+    <link rel="icon" href="https://i.imgur.com/nhXR9hG.png" />
+  </head>
+  <body lang="{{ .Site.LanguageCode }}">
+    {{ with .Site.GetPage "about" }}{{ .Content }}{{ end }}
+    
+    <!-- include the Glitch button to show what the webpage is about and
+      to make it easier for folks to view source and remix -->
+    <div class="glitchButton" style="position:fixed;top:20px;right:20px;"></div>
+    <script src="https://button.glitch.me/button.js"></script>
+    
+    {{ partial "footer.html" . }}
+    <small><em>Updated {{ with .Site.GetPage "/about" }}{{ .Date.Format "January 2, 2006" }}{{ end }}</em></small>
+  </body>
+</html>
