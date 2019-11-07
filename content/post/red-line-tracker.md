@@ -1,5 +1,5 @@
 ---
-title: "Red Line Tracker"
+title: "Red Line Pub Crawl Tracker"
 date: "2019-11-07"
 draft: false
 tags:
