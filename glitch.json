@@ -1,4 +1,5 @@
 {
   "install": "[ ! -d //tmp/hugo ] && echo \"Starting Hugo download and installation\" && curl -sSL https://github.com/gohugoio/hugo/releases/download/v0.59.1/hugo_0.59.1_Linux-64bit.tar.gz -o - | tar xzf - -C /tmp && echo \"Finished installation\"",
-  "start": "/tmp/hugo && /tmp/hugo server -p 3000"
+  "start": "/tmp/hugo && /tmp/hugo server -p 3000",
+  "keywords": ["hugo", "jamstack"]
 }

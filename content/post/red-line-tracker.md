@@ -28,4 +28,4 @@ As you can see, we deviated from our plan almost immediately 😀.
 
 First take-away: using the browser API to get my current GPS location is not as scary as I thought! Now I know why every stinkin' site asks for it.
 
-I didn't have time to learn how to use MapBox, so I made each entry link to a Google Map centered on the location. Feel free to [remix it](https://glitch.com/edit/#!/red-line-pub-crawl) and extend it!
+I didn't have time to learn how to use MapBox, so I made each entry link to a Google Map centered on the location. Feel free to [remix](https://glitch.com/edit/#!/red-line-pub-crawl) and extend it!
