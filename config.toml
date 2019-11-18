@@ -4,7 +4,7 @@ theme ="hugo-theme-basic"
 languageCode = "en-us"
 googleAnalytics = "UA-XXXXXXXXX-X"
 enableEmoji = true 
-copyright = "Adapted from the awesome <a href='https://github.com/siegerts/hugo-theme-basic'>Hugo Theme Basic</a> by <a href='https://twitter.com/siegerts'>@siegerts</a>."
+copyright = "©  2019<a href='/'> Brady Hurlburt</a>. "
 description = "Info about Brady Hurlburt."
 relativeURLs = true
 paginate = 1
