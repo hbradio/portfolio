@@ -39,7 +39,7 @@ date = "2019-11-07"
     Teaching 📜.
   </p>
   <p>
-    My favorite bands are Big Thief, The 1975, and Phoebe Bridgers. 🎸
+    My favorite bands include Big Thief, The 1975, and Phoebe Bridgers. 🎸
   </p>
   <p>
     I'd love to chat. 💬 Feel free to direct-message me on
