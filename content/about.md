@@ -1,6 +1,6 @@
 +++
 title = "About me"
-date = "2019-11-07"
+date = "2019-12-16"
 +++
 
 <header>
@@ -28,14 +28,13 @@ date = "2019-11-07"
     schoolers called <a href="https://rovercode.com">Rovercode</a>.
   </p>
   <p>
-    If all goes according to plan, I should graduate in December 2019 from
-    Georgia Tech's
+    I just completed Georgia Tech's
     <a href="https://twitter.com/GTOMSCS">OMSCS program</a> with a focus in
     Interactive Intelligence 🎓.
     <a href="/pdfs/peer-support-2018.pdf">
       Here's something I wrote</a
     >
-    involving Papert, Scratch, and Glitch. I have a BSEE and an MA in
+    involving Papert, Scratch, and Glitch. I also have a BSEE and an MA in
     Teaching 📜.
   </p>
   <p>
@@ -48,4 +47,3 @@ date = "2019-11-07"
     read some of my <a href="/micro/">tweet-like thoughts</a> or <a href="/post/">longer posts</a>.
   </p>
 </section>
-
