@@ -42,7 +42,7 @@ date = "2019-12-16"
   </p>
   <p>
     I'd love to chat. 💬 Feel free to direct-message me on
-    <a href="https://twitter.com/aninternetof">Twitter</a> or onnn
+    <a href="https://twitter.com/aninternetof">Twitter</a> or on
     <a href="https://keybase.io/bradyhurlburt"> Keybase</a>. You can also
     read some of my <a href="/micro/">tweet-like thoughts</a> or <a href="/post/">longer posts</a>.
   </p>
