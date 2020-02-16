@@ -14,7 +14,7 @@ date = "2019-12-16"
     height="400px;"
     src="https://i.imgur.com/CqTNsut.jpg"
     alt="me, coding with my dog at a brewery"
-    style="float: left; margin: 0px 40px 40px 0;"
+    style="float: left; margin: 0px 40px 10px 0;"
   />
 </header>
 
@@ -24,8 +24,11 @@ date = "2019-12-16"
     <a href="https://genesys.com">Genesys</a> in Indianapolis.
   </p>
   <p>
-    I manage an open-source robotics programming environment for middle
+    I co-founded an online coding platform for middle
     schoolers called <a href="https://rovercode.com">Rovercode</a>.
+    <a href="https://medium.com/@bradyhurlburt/fd8862ad361c">I wrote here</a>
+    about some things I think are important for designing online social learning
+    for kids.
   </p>
   <p>
     I just completed Georgia Tech's
