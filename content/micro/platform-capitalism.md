@@ -6,7 +6,15 @@ tags:
   - Books
 ---
 
-{{< figure src="https://media.wiley.com/product_data/coverImage300/69/15095048/1509504869.jpg" alt="Platform Capitalism book" class="big" >}}
+<style>
+.center img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+{{< figure src="https://i.imgur.com/vcBPXvs.jpg" alt="Platform Capitalism book" class="big center" >}}
 
 *Platform Capitalism* by Nick Srnicek
 

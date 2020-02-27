@@ -6,7 +6,16 @@ tags:
   - Books
 ---
 
-{{< figure src="http://bogost.com/wordpress/wp-content/uploads/play-anything.jpg" alt="Play Anything book" width="300px" >}}
+<style>
+.center img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+
+{{< figure src="https://www.basicbooks.com/wp-content/uploads/2017/06/9780465051724.jpg?fit=444%2C675" alt="Play Anything book" class="big center" >}}
 
 *Play Anything* by Ian Bogost
 
