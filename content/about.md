@@ -4,7 +4,7 @@ date = "2019-12-16"
 +++
 
 <header>
-  <h1>Hi, I'm Brady Hurlburt. <span class="wave">👋 </span></h1>
+  <h1>Hi, I'm Brady Hurlburt.<span class="wave">👋 </span></h1>
   
   <p>
     I'm interested in <strong>the Internet and education</strong> -- online
