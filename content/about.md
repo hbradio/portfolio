@@ -1,14 +1,13 @@
 +++
 title = "About me"
-date = "2019-12-16"
+date = "2020-05-04"
 +++
 
 <header>
   <h1>Hi, I'm Brady Hurlburt.<span class="wave">👋 </span></h1>
   
   <p>
-    I'm interested in <strong>the Internet and education</strong> -- online
-    social learning and healthy online interactions in general.
+    I'm interested in <strong>online social learning</strong> and healthy online interactions in general.
   </p>
   <img
     height="400px;"
@@ -31,7 +30,7 @@ date = "2019-12-16"
     for kids.
   </p>
   <p>
-    I just completed Georgia Tech's
+    Last year I completed Georgia Tech's
     <a href="https://twitter.com/GTOMSCS">OMSCS program</a> with a focus in
     Interactive Intelligence 🎓.
     <a href="/pdfs/peer-support-2018.pdf">
@@ -41,7 +40,7 @@ date = "2019-12-16"
     Teaching 📜.
   </p>
   <p>
-    My favorite bands include Big Thief, The 1975, and Phoebe Bridgers. 🎸
+    My favorite bands these days include Phoebe Bridgers and The 1975. And I'm really enjoying some emo/poppunk-revival bands like Origami Angel and Hot Mulligan. 🎸
   </p>
   <p>
     I'd love to chat. 💬 Feel free to direct-message me on

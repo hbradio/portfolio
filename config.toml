@@ -4,7 +4,7 @@ theme ="hugo-theme-basic"
 languageCode = "en-us"
 googleAnalytics = "UA-XXXXXXXXX-X"
 enableEmoji = true 
-copyright = "©  2019 <a href='/'>Brady Hurlburt</a>. "
+copyright = "©  2020 <a href='/'>Brady Hurlburt</a>. "
 description = "Info about Brady Hurlburt."
 relativeURLs = true
 paginate = 1
