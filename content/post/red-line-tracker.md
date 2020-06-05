@@ -12,9 +12,9 @@ Ok, so it wasn't an original idea. So what? When me, my wife, and a few friends 
 
 
 
-Inevitably, we had friends that couldn't come for the entire crawl but wanted to meet us later along the way. So they wouldn't have to call us, I made a little app so that we could post our location with a timestamp. 
+Inevitably, we had friends that couldn't come for the entire crawl but wanted to meet us later along the way. So they wouldn't have to call us, I made a little app so that we could post our location with a timestamp.
 
-
+{{< rawhtml >}}
 <div class="glitch-embed-wrap" style="height: 486px; width: 100%;">
   <iframe
     allow="geolocation; microphone; camera; midi; encrypted-media"
@@ -23,6 +23,7 @@ Inevitably, we had friends that couldn't come for the entire crawl but wanted to
     style="height: 100%; width: 100%; border: 0;">
   </iframe>
 </div>
+{{< /rawhtml >}}
 
 As you can see, we deviated from our plan almost immediately 😀.
 
