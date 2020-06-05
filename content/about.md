@@ -1,6 +1,6 @@
 +++
 title = "About me"
-date = "2020-05-04"
+date = "2020-06-05"
 +++
 
 {{< rawhtml >}}
@@ -42,17 +42,19 @@ date = "2020-05-04"
     Teaching 📜.
   </p>
   <p>
-    My favorite bands these days include Phoebe Bridgers and The 1975. And I'm really enjoying some emo/poppunk-revival bands like Origami Angel and Hot Mulligan. 🎸
+    My favorite artist these is Phoebe Bridgers. And I'm really enjoying some emo-/poppunk-revival bands like Origami Angel and Hot Mulligan. 🎸
   </p>
   <p>
     I'd love to chat. 💬 Feel free to direct-message me on
-    <a href="https://twitter.com/aninternetof">Twitter</a> or on
-    <a href="https://keybase.io/bradyhurlburt"> Keybase</a>.
+    <a href="https://twitter.com/aninternetof">Twitter</a>.
   </p>
   <p>
     Check out <strong><a href="/micro/">my micro-blog</a></strong> or
     <strong><a href="/post/">my regular blog</a></strong>.
-
+  </p>
+  <p>
+    Check out and support <strong><a href="https://bailproject.org/faq/">The Bail Project</a></strong>.
+    Black Lives Matter.
   </p>
 </section>
 
