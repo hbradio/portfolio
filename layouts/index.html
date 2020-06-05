@@ -18,7 +18,7 @@
       type="application/rss+xml"
       title="{{ $sitetitle }}"
     />
-    
+
     {{ end }} {{ partial "head_includes.html" . }}
 
     <link rel="icon" href="https://i.imgur.com/nhXR9hG.png" />
@@ -56,9 +56,9 @@
     </style>
   </head>
   <body lang="{{ .Site.LanguageCode }}">
-    {{ with .Site.GetPage "about" }}{{ .Content }}{{ end }}
+    {{ with .Site.GetPage "/about" }}{{ .Content }}{{ end }}
 
-    
+
     <!-- include the Glitch button to show what the webpage is about and
       to make it easier for folks to view source and remix -->
     <div class="glitchButton" style="position:fixed;top:20px;right:20px;"></div>
