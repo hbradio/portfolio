@@ -42,10 +42,10 @@ date = "2020-06-05"
     Teaching 📜.
   </p>
   <p>
-    My favorite artist these days is Phoebe Bridgers. And I'm really enjoying some emo-/poppunk-revival bands like Origami Angel and Hot Mulligan. 🎸
+    My favorite artist these days is Phoebe Bridgers. And I'm really enjoying some emo-/poppunk-revival bands like Origami Angel and Hot Mulligan 🎸.
   </p>
   <p>
-    I'd love to chat. 💬 Feel free to direct-message me on
+    I'd love to chat 💬. Feel free to direct-message me on
     <a href="https://twitter.com/aninternetof">Twitter</a>.
   </p>
   <p>
