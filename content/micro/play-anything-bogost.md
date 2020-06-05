@@ -6,6 +6,7 @@ tags:
   - Books
 ---
 
+{{< rawhtml >}}
 <style>
 .center img{
   display: block;
@@ -13,7 +14,7 @@ tags:
   margin-right: auto;
 }
 </style>
-
+{{< /rawhtml >}}
 
 {{< figure src="https://www.basicbooks.com/wp-content/uploads/2017/06/9780465051724.jpg?fit=444%2C675" alt="Play Anything book" class="big center" >}}
 
@@ -24,7 +25,7 @@ tags:
 By refusing to ask what could be different, and instead allowing what is present to guide us, we create a new space.
 
  -
- 
+
 > ... creativity reveals itself to have far less to do with our own desires and vision and imaginations, and more to do with the world outside us, and how seriously we are willing to take it.
 
 -
