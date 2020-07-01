@@ -6,4 +6,4 @@ tags:
   - Parenting
 ---
 
-The Mayo Clinic parenting book doesn't say at what age the baby can understand Pheobe Bridgers lyrics.
+The Mayo Clinic parenting book doesn't say at what age the baby can understand Phoebe Bridgers lyrics.
