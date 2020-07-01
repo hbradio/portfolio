@@ -76,7 +76,7 @@ pre {
 
 pre,
 code {
-  font-family: monocode, monospace;
+  font-family: dm, monocode, monospace;
   -webkit-font-smoothings: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
