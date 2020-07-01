@@ -9,15 +9,16 @@
     href="/"
     >{{ .Site.Title  }}</a
   >
-  
+
+  {{ $paginator := .Paginate (where .Data.Pages "Type" "micro") }}
+
   <section>
-    <!-- prettier-ignore -->
-    {{ range .Data.Pages.ByDate.Reverse }}
+    {{ range $paginator.Pages }}
     <hr/>
     <div>
         <a
           href="{{ .RelPermalink}}"
-           ><small>{{ .Date.Format "2006-01-02" }}</small></a
+            ><small>{{ .Date.Format "2006-01-02" }}</small></a
         >
       <p>
         {{ .Content }}
@@ -26,7 +27,11 @@
     </div>
     {{ end }}
   </section>
-  
+
+  <hr/>
+
+  {{ template "_internal/pagination.html" . }}
+
   {{ partial "footer.html" . }}
 
   </body>

@@ -6,6 +6,7 @@ tags:
   - Books
 ---
 
+{{< rawhtml >}}
 <style>
 .center img{
   display: block;
@@ -13,6 +14,7 @@ tags:
   margin-right: auto;
 }
 </style>
+{{< /rawhtml >}}
 
 {{< figure src="https://i.imgur.com/vcBPXvs.jpg" alt="Platform Capitalism book" class="big center" >}}
 

@@ -3,11 +3,11 @@ title = "Brady Hurlburt"
 theme ="hugo-theme-basic"
 languageCode = "en-us"
 googleAnalytics = "UA-XXXXXXXXX-X"
-enableEmoji = true 
+enableEmoji = true
 copyright = "©  2020 <a href='/'>Brady Hurlburt</a>. "
 description = "Info about Brady Hurlburt."
 relativeURLs = true
-paginate = 1
+paginate = 5
 
 [taxonomies]
   category = "categories"
