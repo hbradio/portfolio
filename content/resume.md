@@ -1,28 +1,56 @@
+
++++
+date = "2020-07-15"
++++
+{{< rawhtml >}}
+<style>
+@media print {
+    body {
+    line-height: 1;
+    font-size: 12px;
+    margin: 0px auto;
+    }
+    a {
+        text-decoration: none;
+        color: #444;
+    }
+    h1,
+    h2,
+    h3 {
+    line-height: 1.2;
+    font-weight: 700;
+    }
+}
+</style>
+{{< /rawhtml >}}
+
+
 # Brady Hurlburt
 
 Indianapolis, Indiana, USA | bradyhurlburt@gmail.com | https://brady.fyi
 
 ## Experience
 
-### Team Lead / Senior Software Engineer, Genesys
+### Team Lead + Senior Software Engineer, [Genesys](https://www.genesys.com/genesys-cloud)
 *2017-present*
 
 I lead a small team developing microservices for a scalable cloud product.
 
-* Develop services in Java 11 (Spring)
+* Develop services in Java 11 (Spring) and own them through deployment and monitoring with NewRelic, SumoLogic, and PagerDuty.
 * Design systems using DynamoDB, S3, Redis, Kafka, Druid
 * Lead my team in agile methodologies
 
-### Co-founder, Rovercode
+### Co-founder, [Rovercode](https://rovercode.com/)
 *2016-present*
 
 I co-founded an online social learning platform where students write code for robots.
 
 * Develop services in Python 3 (Django) and Go
 * Architect our infrastructure using AWS Lambda, Docker, AWS ECS / Fargate, Cloudformation
+* Set up CI/CD with TravisCI and GitHub Actions.
 * Develop our UI using React+Redux, Material-UI
 
-### Electrical Engineer / Firmware Engineer, Indesign LLC
+### Electrical Engineer + Firmware Engineer, [Indesign LLC](https://indesign-llc.com/)
 *2012-2017*
 
 I designed hardware, firmware, and programmable logic for turn-key electronic
@@ -32,7 +60,7 @@ products.
 * Developed Android board-support packages for custom hardware
 
 
-### Math Teacher, M.S.D. of Pike Township
+### Math Teacher, [M.S.D. of Pike Township](https://en.wikipedia.org/wiki/Metropolitan_School_District_of_Pike_Township)
 *2011-2012*
 
 I was a classroom teacher for Algebra I, Algebra II, Geometry, and middle-school mathematics at an alternative public school.
