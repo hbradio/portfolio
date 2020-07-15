@@ -4,6 +4,10 @@ date = "2020-07-15"
 +++
 {{< rawhtml >}}
 <style>
+a {
+    color: #08496c;
+}
+
 @media print {
     body {
     line-height: 1;
@@ -72,7 +76,7 @@ I was a classroom teacher for Algebra I, Algebra II, Geometry, and middle-school
 ### M.S. in Computer Science, Georgia Institute of Technology
 *2016-2019, GPA: 4.0*
 
-I specialized in Interactive Intelligence and studied artificial intelligence,
+I specialized in [Interactive Intelligence](https://omscs.gatech.edu/specialization-interactive-intelligence) and studied artificial intelligence,
 machine learning, big data processing and visualization, and human-computer interaction.
 
 ### M.A. in Teaching, Marian University Indianapolis
@@ -83,6 +87,6 @@ I earned my degree and teaching license sponsored by Americorps through The New 
 ### B.S. in Electrical Engineering, University of Arkansas
 *2011-2015, GPA: 3.97*
 
-In my undergrad, I had a special interest in digital signal processing for audio.
+Published ["Application-specific memory performance of a heterogeneous reconfigurable architecture"](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiLgJjvzs_qAhXQGM0KHfJSBTsQFjADegQIARAB&url=https%3A%2F%2Fwww.date-conference.com%2Fproceedings-archive%2FPAPERS%2F2010%2FDATE10%2FPDFFILES%2F04.4_3.PDF&usg=AOvVaw2z-gYTqjW5a1ks9mSLoCZI) in *Design, Automation, Test, in Europe 2010*.
 
 
