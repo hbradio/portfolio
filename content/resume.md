@@ -61,7 +61,7 @@ I designed hardware, firmware, and programmable logic for turn-key electronic
 products.
 
 * Wrote custom Linux drivers in C for new cameras and displays
-* Developed a low-latency Android audio-stack for a custom device
+* Developed a low-latency Android audio stack for a custom device
 
 
 ### Math Teacher, [M.S.D. of Pike Township](https://en.wikipedia.org/wiki/Metropolitan_School_District_of_Pike_Township)
