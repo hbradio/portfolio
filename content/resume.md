@@ -40,7 +40,7 @@ Indianapolis, Indiana, USA | bradyhurlburt@gmail.com | https://brady.fyi
 
 I lead a small team developing microservices for a scalable cloud product.
 
-* Develop services in Java 11 (Spring) and own them through deployment and monitoring with NewRelic, SumoLogic, and PagerDuty.
+* Develop services in Java 11 (Spring) and own them through deployment with NewRelic, SumoLogic, and PagerDuty.
 * Design systems using DynamoDB, S3, Redis, Kafka, Druid
 * Work closely with the product team to plan the feature roadmap and lead my developers in agile methodologies
 
@@ -60,8 +60,8 @@ I co-founded an online social learning platform where students write code for ro
 I designed hardware, firmware, and programmable logic for turn-key electronic
 products.
 
-* Wrote customer Linux drivers in C
-* Developed Android board-support packages for custom hardware
+* Wrote custom Linux drivers in C for new cameras and displays
+* Developed a low-latency Android audio-stack for a custom device
 
 
 ### Math Teacher, [M.S.D. of Pike Township](https://en.wikipedia.org/wiki/Metropolitan_School_District_of_Pike_Township)
