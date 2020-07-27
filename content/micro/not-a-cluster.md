@@ -6,6 +6,6 @@ tags:
   - Programming
 ---
 
-You know, the not a cluster cluster.
+You know, the not-a-cluster cluster.
 
 {{< figure src="https://i.imgur.com/JICWNqo.png" alt="Confusing AWS doc snippet" class="big" >}}
