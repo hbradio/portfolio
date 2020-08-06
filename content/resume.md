@@ -85,7 +85,7 @@ machine learning, big data processing and visualization, and human-computer inte
 I earned my degree and teaching license sponsored by Americorps through The New Teacher Project.
 
 ### B.S. in Electrical Engineering, University of Arkansas
-*2011-2015, GPA: 3.97, minors in mathematics and music*
+*2007-2011, GPA: 3.97, minors in mathematics and music*
 
 Published ["Application-specific memory performance of a heterogeneous reconfigurable architecture"](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiLgJjvzs_qAhXQGM0KHfJSBTsQFjADegQIARAB&url=https%3A%2F%2Fwww.date-conference.com%2Fproceedings-archive%2FPAPERS%2F2010%2FDATE10%2FPDFFILES%2F04.4_3.PDF&usg=AOvVaw2z-gYTqjW5a1ks9mSLoCZI) in *Design, Automation, Test, in Europe 2010*.
 
