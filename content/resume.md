@@ -40,7 +40,7 @@ Indianapolis, Indiana, USA | bradyhurlburt@gmail.com | https://brady.fyi
 
 I lead a small team developing microservices for a scalable cloud product.
 
-* Develop services in Java 11 (Spring) and own them through deployment with NewRelic, SumoLogic, and PagerDuty.
+* Develop services in Java 11 (Spring) and own them through deployment with NewRelic, SumoLogic, and PagerDuty
 * Design systems using DynamoDB, S3, Redis, Kafka, Druid
 * Work closely with the product team to plan the feature roadmap and lead my developers in agile methodologies
 
@@ -51,7 +51,7 @@ I co-founded an online social learning platform where students write code for ro
 
 * Develop services in Python 3 (Django) and Go
 * Architect our infrastructure using AWS Lambda, Docker, AWS ECS / Fargate, Cloudformation
-* Set up CI/CD with TravisCI and GitHub Actions.
+* Set up CI/CD with TravisCI and GitHub Actions
 * Develop our UI using React+Redux, Material-UI
 
 ### Electrical Engineer + Firmware Engineer, [Indesign LLC](https://indesign-llc.com/)
@@ -69,7 +69,7 @@ products.
 
 I was a classroom teacher for Algebra I, Algebra II, Geometry, and middle-school mathematics at an alternative public school.
 
-* My remediation class of students who had failed the Algebra I state exam passed at a higher rate than their peers at the main high school.
+* My remediation class of students who had failed the Algebra I state exam passed at a higher rate than their peers at the main high school
 
 ## Education
 
