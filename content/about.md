@@ -46,7 +46,7 @@ date = "2020-07-08"
   </p>
   <p>
     I'd love to chat 💬. Feel free to direct-message me on
-    <a href="https://twitter.com/aninternetof">Twitter</a>.
+    <a href="https://twitter.com/h_bradio">Twitter</a>.
   </p>
   <p>
     Check out <strong><a href="/micro/">my micro-blog</a></strong> or
