@@ -1,6 +1,6 @@
 +++
 title = "About me"
-date = "2020-07-08"
+date = "2020-08-17"
 +++
 
 {{< rawhtml >}}
@@ -46,7 +46,7 @@ date = "2020-07-08"
   </p>
   <p>
     I'd love to chat 💬. Feel free to direct-message me on
-    <a href="https://twitter.com/h_bradio">Twitter</a>.
+    <a href="https://twitter.com/h_bradio">Twitter</a> or <a href = "mailto: brady.hurlburt@protonmail.com">email me</a>.
   </p>
   <p>
     Check out <strong><a href="/micro/">my micro-blog</a></strong> or
