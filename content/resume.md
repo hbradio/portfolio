@@ -50,10 +50,9 @@ I lead a small team developing microservices for a scalable cloud product.
 
 I co-founded an online social learning platform where students write code for robots.
 
-* Develop services in Python 3 (Django) and Go
+* Develop services in Python 3 (Django) and Go and our UI using React+Redux, Material-UI
 * Architect our infrastructure using AWS Lambda, Docker, AWS ECS / Fargate, Cloudformation
 * Set up CI/CD with TravisCI and GitHub Actions
-* Develop our UI using React+Redux, Material-UI
 
 ### Electrical Engineer + Firmware Engineer, [Indesign LLC](https://indesign-llc.com/)
 *2012-2017*
