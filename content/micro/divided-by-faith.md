@@ -12,11 +12,12 @@ tags:
   display: block;
   margin-left: auto;
   margin-right: auto;
+  max-width: 400px;
 }
 </style>
 {{< /rawhtml >}}
 
-{{< figure src="https://images-na.ssl-images-amazon.com/images/I/71vFuacfpwL.jpg" alt="Divided by Faith book cover" style="width:400px" class="big center" >}}
+{{< figure src="https://images-na.ssl-images-amazon.com/images/I/71vFuacfpwL.jpg" alt="Divided by Faith book cover" class="big center" >}}
 
 *Divided by Faith: Evangelical Religion and the Problem of Race in America* by Christian Smith and Michael O. Emerson
 
