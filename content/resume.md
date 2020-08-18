@@ -40,9 +40,10 @@ Indianapolis, Indiana, USA | bradyhurlburt@gmail.com | https://brady.fyi
 
 I lead a small team developing microservices for a scalable cloud product.
 
-* Develop services in Java 11 (Spring) and own them through deployment with NewRelic, SumoLogic, and PagerDuty
-* Design systems using DynamoDB, S3, Redis, Kafka, Druid
+* Develop services in Java 11 (Spring), DynamoDB, S3, and Redis.
+* Own service through deployment with NewRelic, SumoLogic, and PagerDuty
 * Work closely with the product team to plan the feature roadmap and lead my developers in agile methodologies
+* Created a system to allow teams to configure Flink and Hadoop with YAML to create records from a Kafka topic and populate Druid and ElasticSearch.
 
 ### Co-founder, [Rovercode](https://rovercode.com/)
 *2016-present*
