@@ -48,7 +48,7 @@ I lead a small team developing microservices for a scalable cloud product.
 
 * Develop services in Java 11 (Spring), DynamoDB, S3, and Redis.
 * Own services through deployment with NewRelic, SumoLogic, and PagerDuty
-* Work closely with the product team to plan the feature roadmap and lead my developers in agile methodologies
+* Work closely with the product team to plan the feature roadmap and manage agile methodologies
 * Created a system to allow teams to configure Flink and Hadoop with YAML to create records from a Kafka topic and populate Druid and ElasticSearch.
 
 ### Co-founder, [Rovercode](https://rovercode.com/)
