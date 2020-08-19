@@ -11,7 +11,7 @@ a {
 @media print {
     body {
     line-height: 1;
-    font-size: 12px;
+    font-size: 11px;
     font-weight: 350;
     margin: 0px auto;
     }
