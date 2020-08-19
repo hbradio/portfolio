@@ -24,10 +24,9 @@ a {
     h3 {
     font-weight: 700;
     }
-    h1 {
+    h1, h2 {
     line-height: 1.1;
     }
-    h2,
     h3 {
     line-height: 1;
     }
