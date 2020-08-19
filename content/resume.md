@@ -72,7 +72,7 @@ products.
 ### Math Teacher, [M.S.D. of Pike Township](https://en.wikipedia.org/wiki/Metropolitan_School_District_of_Pike_Township)
 *2011-2012*
 
-I was a classroom teacher for Algebra I, Algebra II, Geometry, and middle-school mathematics at an alternative public school.
+I was a classroom teacher for Algebra and Geometry at an alternative public school.
 
 * Led my Algebra I remediation class to a higher pass rate on state exam passed than main high school's.
 
