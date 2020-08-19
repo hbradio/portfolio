@@ -22,8 +22,14 @@ a {
     h1,
     h2,
     h3 {
-    line-height: 1.1;
     font-weight: 700;
+    }
+    h1 {
+    line-height: 1.1;
+    }
+    h2,
+    h3 {
+    line-height: 1;
     }
 }
 </style>
