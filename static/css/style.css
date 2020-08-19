@@ -13,8 +13,16 @@ body {
 h1,
 h2,
 h3 {
-  line-height: 1.8;
   font-weight: 700;
+}
+h1 {
+  line-height: 1.8;
+}
+h2 {
+  line-height: 1.4;
+}
+h3 {
+  line-height: 1.2;
 }
 a {
   color: #1093D8;
