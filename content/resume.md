@@ -10,10 +10,18 @@ a {
 
 @media print {
     body {
-    line-height: 1;
-    font-size: 11px;
+    line-height: 1.0;
+    font-size: 13px;
     font-weight: 350;
     margin: 0px auto;
+    }
+    p {
+        margin-block-start: 0.5em;
+        margin-block-end: 0.5em;
+    }
+    ul {
+        margin-block-start: 0.5em;
+        margin-block-end: 0.5em;
     }
     a {
         text-decoration: none;
@@ -24,11 +32,16 @@ a {
     h3 {
     font-weight: 700;
     }
-    h1, h2 {
-    line-height: 1.1;
+    h1 {
+    line-height: 2.1;
+    }
+    h2 {
+    line-height: 1.5;
     }
     h3 {
-    line-height: 1;
+        line-height: 1;
+        margin-block-start: 1.2em;
+        margin-block-end: 0.5em;
     }
 }
 </style>
@@ -37,27 +50,30 @@ a {
 
 # Brady Hurlburt
 
-Indianapolis, Indiana, USA | bradyhurlburt@gmail.com | https://brady.fyi
+*Indianapolis, Indiana, USA* | *bradyhurlburt@gmail.com* | *https://brady.fyi*
+
+I am an experienced software engineer seeking to continue developing my skills with the latest technologies and architectures. I want to help an exciting product succeed at a top-tier company.
 
 ## Experience
 
 ### Team Lead + Senior Software Engineer, [Genesys](https://www.genesys.com/genesys-cloud)
 *2017-present*
 
-I lead a small team developing microservices for a scalable cloud product.
+I lead a team developing microservices for Genesys Cloud, a scalable cloud product.
 
-* Develop services in Java 11 (Spring), DynamoDB, S3, and Redis.
+* Architect and develop services using Java 11 (Spring), DynamoDB, S3, and Redis
 * Own services through deployment with NewRelic, SumoLogic, and PagerDuty
-* Work closely with the product team to plan the feature roadmap and manage Agile methodologies
-* Created a system to allow teams to configure Flink and Hadoop with YAML to create records from a Kafka topic and populate Druid and ElasticSearch.
+* Work closely with the product team to define new features for our roadmap; manage my team's Agile methodologies
+* Created a system to allow other teams to configure Flink and Hadoop with YAML to create records in Druid and ElasticSearch using data from any Kafka topic
 
 ### Co-founder, [Rovercode](https://rovercode.com/)
 *2016-present*
 
 I co-founded an online social learning platform where students write code for robots.
 
-* Develop services in Python 3 (Django) and Go and our UI using React+Redux, Material-UI
-* Architect our infrastructure using AWS Lambda, Docker, AWS ECS / Fargate, Cloudformation; set up CI/CD with TravisCI and GitHub Actions
+* Develop services in Python 3 (Django) and Go and our UI using React+Redux and Material-UI
+* Architect our infrastructure using AWS Lambda, Docker, AWS ECS+Fargate, and Cloudformation; set up CI/CD with TravisCI and GitHub Actions
+* Defined and implemented a Web Bluetooth serial protocol to communicate with the robot
 
 ### Electrical Engineer + Firmware Engineer, [Indesign LLC](https://indesign-llc.com/)
 *2012-2017*
@@ -72,9 +88,9 @@ products.
 ### Math Teacher, [M.S.D. of Pike Township](https://en.wikipedia.org/wiki/Metropolitan_School_District_of_Pike_Township)
 *2011-2012*
 
-I was a classroom teacher for Algebra and Geometry at an alternative public school.
+I was a classroom Algebra and Geometry teacher at an alternative public school.
 
-* Led my Algebra I remediation class to a higher pass rate on state exam passed than main high school's.
+* Led my Algebra I remediation class to a higher pass rate on state exam than main high school's.
 
 ## Education
 
@@ -87,11 +103,11 @@ machine learning, big data processing and visualization, and human-computer inte
 ### M.A. in Teaching, Marian University Indianapolis
 *2011-2015, GPA: 4.0*
 
-I earned my degree and teaching license sponsored by Americorps through The New Teacher Project.
+I earned my teaching license and degree sponsored by Americorps through The New Teacher Project.
 
 ### B.S. in Electrical Engineering, University of Arkansas
 *2007-2011, GPA: 3.97, minors in mathematics and music*
 
-Published ["Application-specific memory performance of a heterogeneous reconfigurable architecture"](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiLgJjvzs_qAhXQGM0KHfJSBTsQFjADegQIARAB&url=https%3A%2F%2Fwww.date-conference.com%2Fproceedings-archive%2FPAPERS%2F2010%2FDATE10%2FPDFFILES%2F04.4_3.PDF&usg=AOvVaw2z-gYTqjW5a1ks9mSLoCZI) in *Design, Automation, Test, in Europe 2010*.
+I published ["Application-specific memory performance of a heterogeneous reconfigurable architecture"](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiLgJjvzs_qAhXQGM0KHfJSBTsQFjADegQIARAB&url=https%3A%2F%2Fwww.date-conference.com%2Fproceedings-archive%2FPAPERS%2F2010%2FDATE10%2FPDFFILES%2F04.4_3.PDF&usg=AOvVaw2z-gYTqjW5a1ks9mSLoCZI) in *Design, Automation, Test, in Europe 2010*.
 
 
