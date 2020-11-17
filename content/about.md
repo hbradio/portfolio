@@ -1,6 +1,6 @@
 +++
 title = "About me"
-date = "2020-08-17"
+date = "2020-11-16"
 +++
 
 {{< rawhtml >}}

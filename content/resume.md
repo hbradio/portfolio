@@ -63,11 +63,11 @@ I am an experienced software engineer seeking to continue developing my skills w
 ### Team Lead + Senior Software Engineer, [Genesys](https://www.genesys.com/genesys-cloud)
 *2017-present*
 
-I lead a team developing microservices for Genesys Cloud, a scalable cloud product.
+I lead an Agile team developing microservices for Genesys Cloud, a scalable cloud product.
 
-* Architect and develop services using Java 11 (Spring), DynamoDB, S3, and Redis
-* Own services through deployment with NewRelic, SumoLogic, and PagerDuty
-* Work closely with the product team to define new features for our roadmap; manage my team's Agile methodologies
+* Architect and develop services in Java 11 (Spring) that interface with DynamoDB, S3, Kafka, and Redis
+* Own our services through deployment and ensure high reliability using NewRelic, SumoLogic, and PagerDuty
+* Work closely with the product team to understand customer needs and define new features for our roadmap
 * Created a system to allow other teams to configure Flink and Hadoop with YAML to create records in Druid and ElasticSearch using data from any Kafka topic
 
 ### Co-founder, [Rovercode](https://rovercode.com/)
@@ -76,8 +76,8 @@ I lead a team developing microservices for Genesys Cloud, a scalable cloud produ
 I co-founded an online social learning platform where students write code for robots.
 
 * Develop services in Python 3 (Django) and Go and our UI using React+Redux and Material-UI
-* Architect our infrastructure using AWS Lambda, Docker, AWS ECS+Fargate, and Cloudformation; set up CI/CD with TravisCI and GitHub Actions
-* Defined and implemented a Web Bluetooth serial protocol to communicate with the robot
+* Drove down the cost of our infrastructure using AWS Lambda, Docker, AWS ECS+Fargate, and Cloudformation; set up CI/CD with TravisCI and GitHub Actions
+* Defined and implemented a Web Bluetooth serial protocol to allow reliable communication with the robot directly from the browser
 
 ### Electrical Engineer + Firmware Engineer, [Indesign LLC](https://indesign-llc.com/)
 *2012-2017*
@@ -86,7 +86,7 @@ I designed hardware, firmware, and programmable logic for turn-key electronic
 products.
 
 * Wrote custom Linux drivers in C for new cameras and displays
-* Developed a low-latency Android audio stack for a custom device
+* Developed a low-latency Android audio stack for a custom high-performance device
 
 
 ### Math Teacher, [M.S.D. of Pike Township](https://en.wikipedia.org/wiki/Metropolitan_School_District_of_Pike_Township)
