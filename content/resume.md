@@ -4,6 +4,9 @@ date = "2020-07-15"
 +++
 {{< rawhtml >}}
 <style>
+body {
+    max-width: 750px;
+}
 a {
     color: #08496c;
 }
@@ -14,6 +17,7 @@ a {
     font-size: 13px;
     font-weight: 350;
     margin: 0px auto;
+    max-width: 650px;
     }
     p {
         margin-block-start: 0.5em;
@@ -50,7 +54,7 @@ a {
 
 # Brady Hurlburt
 
-*Indianapolis, Indiana, USA* | *bradyhurlburt@gmail.com* | *https://brady.fyi*
+*Indianapolis, Indiana* | *bradyhurlburt@gmail.com* | *https://brady.fyi* | *[github.com/aninternetof](https://github.com/aninternetof)*
 
 I am an experienced software engineer seeking to continue developing my skills with the latest technologies and architectures. I want to help an exciting product succeed at a top-tier company.
 
