@@ -42,7 +42,7 @@ date = "2020-08-17"
     Teaching 📜.
   </p>
   <p>
-    These days I'm really enjoying some mathy postrock by [concrete, concrete](https://concretemusic.bandcamp.com/) and some emo/pop-punk revival bands like Charmer and Hot Mulligan 🎸.
+    These days I'm really enjoying some mathy postrock by <a href="https://concretemusic.bandcamp.com/">concrete, concrete</a> and some emo/pop-punk revival bands like Charmer and Hot Mulligan 🎸.
   </p>
   <p>
     I'd love to chat 💬. Feel free to
