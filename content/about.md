@@ -21,8 +21,7 @@ date = "2020-11-16"
 
 <section>
   <p>
-    I'm a senior software engineer and team lead at
-    <a href="https://genesys.com">Genesys</a> in Indianapolis.
+    I'm a senior software engineer at Salesforce in Indianapolis.
   </p>
   <p>
     I co-founded an online coding platform for middle
@@ -32,7 +31,7 @@ date = "2020-11-16"
     for kids.
   </p>
   <p>
-    Last year I completed Georgia Tech's
+    I completed Georgia Tech's
     <a href="https://twitter.com/GTOMSCS">OMSCS program</a> with a focus in
     Interactive Intelligence 🎓.
     <a href="/pdfs/peer-support-2018.pdf">
