@@ -18,7 +18,7 @@ img{
   <a
     href="/"
     >{{ .Site.Title  }}</a
-  > / microblog
+  > / microblog <small>(<a href="index.xml">rss</a>)</small>
   </h3>
 
   {{ $paginator := .Paginate (where .Data.Pages "Type" "micro") }}
