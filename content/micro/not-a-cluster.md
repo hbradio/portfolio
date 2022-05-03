@@ -8,4 +8,5 @@ tags:
 
 You know, the not-a-cluster cluster.
 
-{{< figure src="https://i.imgur.com/JICWNqo.png" alt="Confusing AWS doc snippet" class="big" >}}
+![Confusing AWS doc snippet](https://i.imgur.com/JICWNqo.png)
+

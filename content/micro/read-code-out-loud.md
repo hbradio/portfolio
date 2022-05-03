@@ -6,6 +6,6 @@ tags:
   - Internet
 ---
 
-This tidbit from the [Elm](https://elm-lang.org/) guide makes me happy, and reminds of me of [Felienne](http://www.felienne.com/about) work on the effectiveness of reading code out load when learning to code.
+This tidbit from the [Elm](https://elm-lang.org/) guide makes me happy, and reminds of me of [Felienne](http://www.felienne.com/about)'s work on the effectiveness of reading code out load when learning to code.
 
-{{< figure src="https://i.imgur.com/W7CdGui.png" alt="Guide snipped with phrases for reading the code out loud" class="big" >}}
+![Guide snipped with phrases for reading the code out loud](https://i.imgur.com/W7CdGui.png)

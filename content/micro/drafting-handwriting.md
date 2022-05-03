@@ -8,6 +8,6 @@ tags:
 
 My dad gave me his old architectural lettering textbook. It's tough, but I'm pleased with the progress I've made in a pretty short time so far.
 
-{{< figure src="https://i.imgur.com/hMXNtb7.png" alt="Architectural lettering instruction book" class="big" >}}
+![Architectural lettering instruction book](https://i.imgur.com/hMXNtb7.png)
 
-{{< figure src="https://i.imgur.com/PyE4Mf3.png" alt="iPad with practice letters" class="big" >}}
+![iPad with practice letters](https://i.imgur.com/PyE4Mf3.png)

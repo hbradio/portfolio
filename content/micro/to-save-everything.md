@@ -6,17 +6,7 @@ tags:
   - Books
 ---
 
-{{< rawhtml >}}
-<style>
-.center img{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-{{< /rawhtml >}}
-
-{{< figure src="https://www.publicaffairsbooks.com/wp-content/uploads/2017/06/9781610393706.jpg?fit=450%2C675" alt="Book cover" class="big center" >}}
+![To Save Everything Click Here book cover](https://www.publicaffairsbooks.com/wp-content/uploads/2017/06/9781610393706.jpg?fit=450%2C675)
 
 *To Save Everything, Click Here: The Folly of Technological Solutionism* by Evgeny Morozov.
 

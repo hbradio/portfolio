@@ -1,6 +1,15 @@
 
 {{ partial "header.html" . }}
 
+<style>
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 400px;
+}
+</style>
+
 <body
   lang="{{ .Site.LanguageCode }}"
 >
@@ -9,7 +18,7 @@
   <a
     href="/"
     >{{ .Site.Title  }}</a
-  >
+  > / microblog
   </h3>
 
   {{ $paginator := .Paginate (where .Data.Pages "Type" "micro") }}
@@ -17,7 +26,7 @@
   <section>
     {{ range $paginator.Pages }}
     <hr/>
-    <div>
+    <div style="margin:40px 0">
         <a
           href="{{ .RelPermalink}}"
             ><small>{{ .Date.Format "2006-01-02" }}</small></a
@@ -30,7 +39,7 @@
     {{ end }}
   </section>
 
-  <hr/>
+  <hr style="margin-bottom: 40px"/>
 
   {{ template "_internal/pagination.html" . }}
 

@@ -44,12 +44,8 @@ date = "2020-11-16"
     These days I'm really enjoying some mathy postrock by <a href="https://concretemusic.bandcamp.com/">concrete, concrete</a> and some emo/pop-punk revival bands like Charmer and Hot Mulligan 🎸.
   </p>
   <p>
-    I'd love to chat 💬. Feel free to
-    <a href="https://twitter.com/h_bradio">DM me on Twitter</a> or <a href = "mailto: brady.hurlburt@protonmail.com">email me</a>.
-  </p>
-  <p>
-    Check out <strong><a href="/micro/">my micro-blog</a></strong> or
-    <strong><a href="/post/">my regular blog</a></strong>.
+    I'd love to chat 💬. Feel free to <a href = "mailto: brady.hurlburt@protonmail.com">email me</a>.
+    Check out <strong><a href="/micro/">my micro-blog</a></strong>.
   </p>
   <p>
     Check out and support <strong><a href="https://bailproject.org/faq/">The Bail Project</a></strong>.
