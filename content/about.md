@@ -46,10 +46,11 @@ date = "2022-05-03"
   </p>
   <p>
     I'd love to chat 💬. Feel free to <a href = "mailto: brady.hurlburt@protonmail.com">email me</a>.
-    Want to learn more about me? Read my <strong><a href="/micro/">my micro-blog</a></strong>.
+    Want to learn more about me? <a href="/micro/">Check out my micro-blog</a>,
+	or <a href="/tags/books">take a look at what I've been reading</a>.
   </p>
   <p>
-    Check out and support <strong><a href="https://bailproject.org/faq/">The Bail Project</a></strong>.
+    Consider supporting <a href="https://bailproject.org/faq/">The Bail Project</a>.
     Black Lives Matter.
   </p>
 </section>
