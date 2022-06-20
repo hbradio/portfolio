@@ -1,0 +1,1 @@
+---\ntitle: "A post from my Ruby client"\ndraft: false\ntags:\n  - programming:\n\nThis work?\n\n
