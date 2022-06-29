@@ -45,7 +45,7 @@ date = "2022-05-03"
   <p>
     I'd love to chat 💬. Feel free to <a href = "mailto: brady.hurlburt@protonmail.com">email me</a>.
     Want to learn more about me? <a href="/micro/">Check out my micro-blog</a>,
-	or <a href="/tags/books">take a look at what I've been reading</a>.
+	<a href="/tags/books">take a look at what I've been reading</a>, or <a href="/more-about">see more</a>.
   </p>
   <p>
     Consider supporting <a href="https://bailproject.org/faq/">The Bail Project</a>.

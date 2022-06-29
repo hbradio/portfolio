@@ -8,11 +8,17 @@ date = "2022-06-02"
 
 ### All-time favorite
 
-#### mewithoutYou - *Brother, Sister*
+#### mewithoutYou - *Brother, Sister* (2006)
+
+![Brother, Sister album cover](https://en.wikipedia.org/wiki/Brother,_Sister#/media/File:Mewithoutyou_brothersister_cover.jpg)
 
 ### Recent favorites
 
-#### Better Oblivion Community Center, Self-titled (2019)
+#### The Beths - *Future Me Hates Me* (2018)
+
+![Future Me Hates Me album cover](https://f4.bcbits.com/img/a1225303261_16.jpg)
+
+#### Better Oblivion Community Center - Self-titled (2019)
 
 ![Better Oblivion Community Center album cover](https://media.pitchfork.com/photos/5c49d90d98bca5110aace017/1:1/w_320,c_limit/better%20oblivion%20community%20center.jpg)
 
@@ -20,3 +26,9 @@ date = "2022-06-02"
   Otherwise I pace around, hold my breath, let it out  
   Sit on the couch and think about   
   How living's just a promise that I made  
+
+## Favorite Quotes
+
+> ... life is growth... - John Dewey
+
+> If you board the wrong train, it is no use running along the corridor in the other direction. - Bonhoeffer
