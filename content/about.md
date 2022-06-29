@@ -10,7 +10,7 @@ date = "2022-05-03"
   <h1>Hi, I'm Brady Hurlburt.<span class="wave">👋 </span></h1>
 
   <p>
-    I'm interested in <strong>online social learning</strong> and healthy online interactions in general.
+    I live in Indianapolis with my wife, kiddos, and dog. I'm interested in <strong>online social learning</strong> and healthy online interactions in general.
   </p>
   <img
     height="400px;"
@@ -22,10 +22,8 @@ date = "2022-05-03"
 
 <section>
   <p>
-    I'm a senior software engineer at Salesforce in Indianapolis.
-  </p>
-  <p>
-    I co-founded an online coding platform for middle
+    I'm a senior software developer at Salesforce. 
+	I co-founded an online coding platform for middle
     schoolers called <a href="https://rovercode.com">Rovercode</a>.
     <a href="/micro/rovercode-ed-design-principles">I wrote here</a>
     about some things I think are important for designing online social learning
@@ -42,7 +40,7 @@ date = "2022-05-03"
     about synchronous online peer support.
   </p>
   <p>
-     Right now I'm looping the new Oso Oso album, and I'm hooked on <a href="https://www.youtube.com/channel/UCy3jC5OdSSrrkbe_496i6gQ"> this YouTuber who covers songs in a pop-punk style</a> 🎸.
+     Right now I'm looping <a href="https://songwhip.com/the-beths/futuremehatesme">The Beths</a>, and I'm hooked on <a href="https://www.youtube.com/channel/UCy3jC5OdSSrrkbe_496i6gQ"> this YouTuber who covers songs in a pop-punk style</a> 🎸.
   </p>
   <p>
     I'd love to chat 💬. Feel free to <a href = "mailto: brady.hurlburt@protonmail.com">email me</a>.
