@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Write a post</title>
+  </head>
+  <body>
+	<style>
+		body {
+			max-width: 900px;
+			margin: auto;
+			margin-top: 40px;
+		}
+	</style>
+	<h2>Title</h2>
+	<input id="title" type="text" />
+	<h2>Body</h2>
+	<textarea id="body" rows="30" cols="60"></textarea>
+	<h2>Tags</h2>
+	<input id="tags" type="text" />
+	<h2>Password</h2>
+	<input id="password" type="password" />
+	<p><button onclick="postEntry()" id="post-button">Post</button></p>
+
+	<script>
+		function postEntry() {
+			const payload = {
+				title: document.getElementById("title").value,
+				message: document.getElementById("body").value,
+				tags: document.getElementById("tags").value.split(','),
+				password: document.getElementById("password").value,
+			}
+			console.log(JSON.stringify(payload));
+			fetch('https://shrouded-citadel-41447.herokuapp.com/entry', {
+				method: 'POST',
+				headers: {
+				  'Content-Type': 'application/json',
+				},
+				body: JSON.stringify(payload),
+			  })
+			  .then(response => response.json())
+			  .then(data => {
+				console.log('Success:', data);
+				document.getElementById("title").value = "";
+				document.getElementById("body").value = "";
+				document.getElementById("tags").value = "";
+				document.getElementById("password").value = "";
+			  })
+			  .catch((error) => {
+				console.error('Error:', error);
+			  });
+		}
+	</script>
+  </body>
+</html>
