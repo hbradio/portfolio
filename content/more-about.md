@@ -4,6 +4,13 @@ date = "2022-06-02"
 
 +++
 
+## Favorite Things
+
+### Public transit.
+
+I aspire to live somewhere with a subway one day.
+For now, I take the IndyGo 10 bus downtown to the office.
+
 ## Music
 
 ### All-time favorite

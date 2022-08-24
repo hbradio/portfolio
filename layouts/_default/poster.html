@@ -32,7 +32,6 @@
 				tags: document.getElementById("tags").value.split(','),
 				password: document.getElementById("password").value,
 			}
-			console.log(JSON.stringify(payload));
 			fetch('https://shrouded-citadel-41447.herokuapp.com/entry', {
 				method: 'POST',
 				headers: {
