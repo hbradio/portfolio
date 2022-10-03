@@ -6,5 +6,5 @@ tags:
   - reading-notes
 ---
 
-In *How We Think*, Dewey says that it's incorrect to think of the shift from an attitude of play to an attitude of work as a shift from interest in activities for their own sakes to an interest in results and products. They can both be interest in an activity for its own sake. It is a shift in the types of activities the child is interested in: from those that are moved forward by whim to those that move forward toward a goal.
+In [*How We Think*](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm), Dewey says that it's incorrect to think of the shift from an attitude of play to an attitude of work as a shift from interest in activiies for their own sake to an interest in results and products. Instead, it is only a change in the **types** of activities the child is interested in: she declines those that are moved forward by whim in favor of those that move toward a goal. It is still possible to enjoy even that kind of activity for its own sake.
 
