@@ -6,5 +6,5 @@ tags:
   - short
 ---
 
-I left an IntelliJ debugger running yesterday, so this morning I pulled my laptop out of my bag hot, fan-running, and out of battery and all I could think was "same."
+I left an IntelliJ debugger running yesterday, so this morning I pulled my laptop out of my bag hot, fan running, and out of battery and all I could think was "same."
 
