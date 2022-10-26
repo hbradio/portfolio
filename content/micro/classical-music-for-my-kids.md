@@ -7,7 +7,7 @@ tags:
   - parenting
 ---
 
-This is some of what I play for my kids:
+Want to help your kids experience classical music, but don't know what to play? These are some of my favorites:
 
 * What's good for bedtime/wind-down/cleanup
   * [Shostakovich's *Piano Concerto No. 2 in F Major*, 2nd Movement](https://songwhip.com/dmitri-shostakovich/piano-concerto-no-2-in-f-major-op-102-ii-andante2015). (Pro-tip: The second movements are always the soft, pretty ones.)
@@ -19,6 +19,8 @@ This is some of what I play for my kids:
   * [Back's *Unaccompanied Cello Suites*, played by Yo-Yo Ma](https://songwhip.com/yo-yo-ma/bach-unaccompanied-cello-suites-remastered)
 * What about modern/minimalist music?
   * [Brian Eno's *Ambient 1: Music for Airports*](https://songwhip.com/brian-eno/ambient-1-music-for-airports-remastered-2004)
+
+This is heavy on piano music (what I know the most about). It's missing big symphonic moments, but I've found that those can be a little much to have on in the house.
 
 
 
