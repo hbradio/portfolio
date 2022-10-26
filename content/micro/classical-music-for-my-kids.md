@@ -16,7 +16,7 @@ Want to help your kids experience classical music, but don't know what to play? 
 * But aren't they supposed to listen to Baroque/polyphonic music?
   * [Scarlatti's sonatas, played by Vladimir Horowitz](https://songwhip.com/vladimir-horowitz/horowitz-the-celebrated-scarlatti-recordings)
   * [Bach's *Goldberg Variations*, played by Glenn Gould](https://songwhip.com/johann-sebastian-bach/bach-the-goldberg-variations-bwv-988-1981-gould-remaster)
-  * [Back's *Unaccompanied Cello Suites*, played by Yo-Yo Ma](https://songwhip.com/yo-yo-ma/bach-unaccompanied-cello-suites-remastered)
+  * [Bach's *Unaccompanied Cello Suites*, played by Yo-Yo Ma](https://songwhip.com/yo-yo-ma/bach-unaccompanied-cello-suites-remastered)
 * What about modern/minimalist music?
   * [Brian Eno's *Ambient 1: Music for Airports*](https://songwhip.com/brian-eno/ambient-1-music-for-airports-remastered-2004)
 
