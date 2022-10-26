@@ -9,7 +9,7 @@ tags:
 
 Want to help your kids experience classical music, but don't know what to play? These are some of my favorites:
 
-* What's good for bedtime/wind-down/cleanup
+* What's good for bedtime/wind-down/cleanup?
   * [Shostakovich's *Piano Concerto No. 2 in F Major*, 2nd Movement](https://songwhip.com/dmitri-shostakovich/piano-concerto-no-2-in-f-major-op-102-ii-andante2015). (Pro-tip: The second movements are always the soft, pretty ones.)
 * What's good for morning wakeup?
   * Shostakovich's [Prelude](https://songwhip.com/davidjalbert/24-preludes-and-fugues-op-87-prelude-no-7-in-a-major) and [Fugue](https://songwhip.com/davidjalbert/24-preludes-and-fugues-op-87-fugue-no-7-in-a-major) No. 7 from Opus 87
