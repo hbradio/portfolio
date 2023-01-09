@@ -4,6 +4,7 @@ date: "2022-05-01T17:00:00+00:00"
 draft: false
 tags:
   - Books
+  - Church
 ---
 
 ![Love Wins book cover](https://robbell.com/wp-content/uploads/2021/04/love-wins.jpg)

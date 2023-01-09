@@ -3,8 +3,9 @@ title: "The Bible Tells Me So"
 date: "2022-10-25T17:26:13+00:00"
 draft: false
 tags:
-  - books
-  - reading
+  - Books
+  - Reading
+  - Church
 ---
 
 ![The Bible Tells Me So book cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407711405l/20262405.jpg)

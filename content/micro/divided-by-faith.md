@@ -4,6 +4,7 @@ date: "2020-08-18T17:00:00+00:00"
 draft: false
 tags:
   - Books
+  - Church
 ---
 
 ![Divided by Faith book cover](https://images-na.ssl-images-amazon.com/images/I/71vFuacfpwL.jpg)

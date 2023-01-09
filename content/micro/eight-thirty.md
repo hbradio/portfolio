@@ -1,7 +1,7 @@
 ---
 title: "EightThirty"
 date: "2020-01-07T19:28:00+00:00"
-draft: false
+draft: true
 tags:
   - Ideas
 ---
