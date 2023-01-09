@@ -1,6 +1,6 @@
 ---
 title: "The Authority of the Bible"
-date: "2022-08-00T01:26:13+00:00"
+date: "2022-08-01T01:26:13+00:00"
 draft: false
 tags:
   - Books

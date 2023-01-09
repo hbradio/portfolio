@@ -1,6 +1,6 @@
 ---
 title: "After Evangelicalism"
-date: "2022-03-00T01:26:13+00:00"
+date: "2022-03-01T01:26:13+00:00"
 draft: false
 tags:
   - Books

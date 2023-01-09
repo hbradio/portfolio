@@ -1,6 +1,6 @@
 ---
 title: "Taking God at His Word"
-date: "2021-10-00T01:26:13+00:00"
+date: "2021-10-01T01:26:13+00:00"
 draft: false
 tags:
   - Books
