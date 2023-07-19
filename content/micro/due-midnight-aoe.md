@@ -15,7 +15,7 @@ Video shot by [Bearded Science Guy](https://www.youtube.com/channel/UCJv7SB7pw5Y
 <iframe width="720" height="405" src="https://www.youtube-nocookie.com/embed/xtZMacH_UuM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
-```text
+```none
 I wish I had a friend on Baker Island
 So when it’s late at night here I could call them
 Anywhere on Earth is just a timezone
