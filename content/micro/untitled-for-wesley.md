@@ -18,4 +18,4 @@ A song on the baritone ukulele that my dad built for me.
 	
 [Tabs (GuitarPro)](/media/untitled-for-wesley.pdf)
 
-[Tabs (PDF)(/media/untitled-for-wesley.pdf)
+[Tabs (PDF)](/media/untitled-for-wesley.pdf)
