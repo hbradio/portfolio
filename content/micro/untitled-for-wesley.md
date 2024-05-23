@@ -15,5 +15,7 @@ A song on the baritone ukulele that my dad built for me.
 	Your browser does not support the video tag.
 </video>
 {{< /rawhtml >}}
+	
 [Tabs (GuitarPro)](/media/untitled-for-wesley.pdf)
+
 [Tabs (PDF)(/media/untitled-for-wesley.pdf)
