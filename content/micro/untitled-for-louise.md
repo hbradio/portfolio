@@ -16,6 +16,6 @@ Another song on the baritone ukulele that my dad built for me.
 </video>
 {{< /rawhtml >}}
 	
-[Tabs (GuitarPro)](/media/untitled-for-louise.pdf)
+[Tabs (GuitarPro)](/media/untitled-for-louise.gp)
 
 [Tabs (PDF)](/media/untitled-for-louise.pdf)
