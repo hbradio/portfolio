@@ -3,5 +3,5 @@
   command = "hugo"
 
 [build.environment]
-  HUGO_VERSION = "0.70.0"
+  HUGO_VERSION = "0.136.5+extended"
   GIT_LFS_ENABLED = "true"
