@@ -90,6 +90,7 @@ There's no reason to think they do not represent the best these politicians have
 #### What sort of lies were these?
 [RFK Jr.'s falsehoods](https://fact-check.brady.fyi/documents/3f744445-0703-4baf-8925-8fe8f5937462) were:
 * Referencing tables in scientific papers that had nothing to do with the claim he was making
+* Citing the wrong numbers from scientific papers
 * Mis-representing the conclusions of the authors of the papers he referenced
 * Citing retracted papers
 
