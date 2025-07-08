@@ -93,6 +93,4 @@ teaching 📜.
 
 ## Favorite Photos 📷
 
-{{< figure src="/media/photo1.jpg" alt="The kids and I" title="The kids and I" >}}
-
 {{< figure src="/media/photo2.jpg" alt="My wife and I" title="My wife and I" >}}
