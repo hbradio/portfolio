@@ -12,7 +12,7 @@ In it, she makes that case that while all politician's lie, there are meaningful
 
 {{< figure src="/media/fact-checking/nyt.png" alt="Holan's analysis of PolitiFact lyting rates from her NYT article" caption="" class="big" >}}
 
-Her article resonated with me.
+Her article resonates with me.
 In conversations with my friends, when I've called out a policician's lie, I'm sometimes met with **"Yeah, but politicians on both sides lie."**
 I thought maybe Holan's methods could help me argue that not every politician's lying is the same.
 
@@ -24,7 +24,7 @@ Holan addresses this directly:
 > We don’t check absolutely everything a candidate says, but focus on what catches our eye as significant, newsworthy or potentially influential. Our ratings are also not intended to be statistically representative but to show trends over time.
 
 This is not an criticsm of Politifact's mission: they choose to invest their time checking the most important claims they can find.
-But it's not going to work for me.
+But to compare two politician's lying, I need a different strategy.
 
 ## Sampling
 
