@@ -88,12 +88,12 @@ Both of these speeches were given behind the seal of the White House.
 There's no reason to think they do not represent the best these politicians have to offer.
 
 #### What sort of lies were these?
-RFK Jr's falsehoods were:
+[RFK Jr.'s falsehoods](https://fact-check.brady.fyi/documents/3f744445-0703-4baf-8925-8fe8f5937462) were:
 * Referencing tables in scientific papers that had nothing to do with the claim he was making
 * Mis-representing the conclusions of the authors of the papers he referenced
 * Citing retracted papers
 
-Buttigieg's falsehoods were:
+[Buttigieg's falsehoods](https://fact-check.brady.fyi/documents/daceccbe-2c3d-4519-8c79-dce01f173536) were:
 * Exaggeration (saying "tens of thousands" when the number was 13,000)
 * A broad, unverifiable claim about historic trends
 * Claiming "99% of comments were positive", when it wasn't quite that high
