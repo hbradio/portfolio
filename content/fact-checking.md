@@ -3,6 +3,8 @@ title: "Battling Brandolini's Law with Sampling"
 date: "2025-07-08"
 ---
 
+*[Brady Hurlburt](/) - July 8, 2025*
+
 ## "All Politicians Lie"
 
 In 2015, Angi Drobnic Holan published [a wonderful article titled "All Politicians Lie. Some Lie More Than Others."](https://www.nytimes.com/2015/12/13/opinion/campaign-stops/all-politicians-lie-some-lie-more-than-others.html)
@@ -12,7 +14,7 @@ In it, she makes that case that while all politician's lie, there are meaningful
 
 Her article resonated with me.
 In conversations with my friends, when I've called out a policician's lie, I'm sometimes met with **"Yeah, but politicians on both sides lie."**
-I thought maybe Holan's methods could help me argue that not all politician's lying is the same.
+I thought maybe Holan's methods could help me argue that not every politician's lying is the same.
 
 As a metric for amount of lying, Holan uses the counts of Politifact checks by result.
 The obvious weakness of this approach is this: couldn't Politifact simply have checked more of Ben Carson's lies than Mitt Romney's?
