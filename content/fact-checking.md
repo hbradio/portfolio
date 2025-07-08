@@ -17,7 +17,7 @@ In conversations with my friends, when I've called out a policician's lie, I'm s
 I thought maybe Holan's methods could help me argue that not every politician's lying is the same.
 
 As a metric for amount of lying, Holan uses the counts of Politifact checks by result.
-The obvious weakness of this approach is this: couldn't Politifact simply have checked more of Ben Carson's lies than Mitt Romney's?
+The obvious weakness of this approach is this: **couldn't Politifact simply have checked more of Ben Carson's lies than Mitt Romney's?**
 If they wanted to, couldn't they find more Romney lies?
 Holan addresses this directly:
 
