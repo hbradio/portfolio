@@ -108,3 +108,6 @@ I did occasionally use ChatGPT as a search engine while fact checking.
 
 That’s up to you to decide, and it’s easier to decide when you know whether the individual sentences are true.
 
+#### Where can I learn more about this?
+
+Check out [this paper](https://journals.sagepub.com/doi/10.1177/2053168019870351) on the effects of summaries of fact-checks.
