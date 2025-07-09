@@ -90,7 +90,7 @@ On average, when RFK Jr. speaks, he tells more than eight lies every five minute
 On average, almost 60% of his claims are false.
 I cannot continually fact check every new thing he says, but I can reference these rates when dismissing new claims he makes.
 
-And is this the same for every other politician?
+And is it the same for every other politician?
 No.
 You can see in this example that RFK Jr's rate of lying is meaningfully different than Pete Buttigieg's.
 
@@ -127,4 +127,4 @@ If you're looking for a rebuttal to RFK Jr.'s argument, [PBS did a great job at 
 
 #### Where can I learn more about this?
 
-Check out [this paper](https://journals.sagepub.com/doi/10.1177/2053168019870351) on the effects of summaries of fact-checks.
+Check out [this paper](https://journals.sagepub.com/doi/10.1177/2053168019870351) on the effects of summaries of fact checks.
