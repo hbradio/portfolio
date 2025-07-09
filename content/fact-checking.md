@@ -115,7 +115,7 @@ There's no reason to think they do not represent the best these politicians have
 * A broad, unverifiable claim about historic trends
 * Using the phrase "99%" too casually
 
-#### Did you use AI to do the fact-checking?
+#### Did AI do the fact checking?
 
 No. I did it myself, and it took a long time. But, my point is that by doing this properly once, I don't need to do it continually.
 
