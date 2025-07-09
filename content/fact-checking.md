@@ -10,6 +10,8 @@ date: "2025-07-08"
 In 2015, Angi Drobnic Holan published [a wonderful article titled "All Politicians Lie. Some Lie More Than Others."](https://www.nytimes.com/2015/12/13/opinion/campaign-stops/all-politicians-lie-some-lie-more-than-others.html)
 In it, she makes that case that while all politician's lie, there are meaningful differences in the amounts that they do so.
 
+Here is the famous graphic from her piece:
+
 {{< figure src="/media/fact-checking/nyt.png" alt="Holan's analysis of PolitiFact lyting rates from her NYT article" caption="" class="big" >}}
 
 Her article resonates with me.
