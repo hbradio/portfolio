@@ -1,5 +1,5 @@
 ---
-title: "Battling Brandolini's Law with Sampling"
+title: "Fighting Brandolini's Law with Sampling"
 date: "2025-07-08"
 ---
 
@@ -23,24 +23,30 @@ Holan addresses this directly:
 
 > We don’t check absolutely everything a candidate says, but focus on what catches our eye as significant, newsworthy or potentially influential. Our ratings are also not intended to be statistically representative but to show trends over time.
 
-This is not an criticsm of Politifact's mission: they choose to invest their time checking the most important claims they can find.
+This is not an criticsm of PolitiFact's mission: they choose to invest their time checking the most important claims they can find.
 But to compare two politician's lying, I need a different strategy.
+
+## Brandolini's Law
+
+I want to know: how often does each politician lie? 
+But how can I answer that?
+Hook a microphone to every politician and assign a team of 100 to fact check every word?
+
+What we're fighting is [Brandolini's Law](https://en.wikipedia.org/wiki/Brandolini%27s_law):
+
+> The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it.
+
+Every week there's a new press conference, a new podcast appearance, a hundred new tweets.
+It would be impossible to keep up.
+
+Let's do what we do when we have too many things to count or classify: let's sample.
 
 ## Sampling
 
-I want to answer questions like "Is this public figure a liar?" and "Should I listen when they talk?"
-What can I do?
-Hook a microphone to every politician and assign a team of 100 to fact check every word?
-
-Let's do what we do when we have too many things to count or classify: let's sample.
-Let's consider an entire speech from a politician and fact-check ***every declarative sentence***.
-
-## How this helps us fight Brandolini's Law
-
-> The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it. - Brandolini's Law
-
 As Brandolini's Law points out, it would be impossible continually to check every claim that a politician makes.
 But, once we've evaluated a sample, maybe we don't need to.
+
+**Let's take an entire speech from a politician and fact-check *every declarative sentence***.
 
 Investing the time to completely and exhaustively fact check a lengthy sample of text allows us to establish a rate of lying.
 Once we have this, we can allow ourselves to detach from the firehose of new content.
@@ -51,22 +57,33 @@ The goal is this:
 
 ## RFK Jr. and Pete Buttigieg
 
-To demonstrate this, I fact-checked two speeches: one from RFK Jr. and one from Pete Buttigieg.
+To demonstrate this, I fact-checked two speeches: [one from RFK Jr. about autism rates](https://www.youtube.com/watch?v=ZUq0GLvgqRs), and [one from Pete Buttigieg about railway safety](https://youtu.be/tCvozJkvU0k?t=164).
 
-I fact-checked like a newsroom fact-checker would. This means:
-* This is not strictly an analysis of the overall arguments ([PBS and many others already did a great job at that](https://www.pbs.org/newshour/politics/fact-checking-robert-f-kennedy-jr-s-statements-on-autism)). This is a count of how many individual sentences were lies.
+They are both official press conferences as Cabinet secretaries.
+
+I acted like a newsroom fact-checker. This means:
+* I did not analyze the overall arguments ([PBS and many others already did a great job at that](https://www.pbs.org/newshour/politics/fact-checking-robert-f-kennedy-jr-s-statements-on-autism)). I simply noted how many individual sentences were lies.
 * I did not evaluate whether a false claim worked for or against the overall argument. I only considered whether it was true or not.
 
-In the graphics below, the width of the rectangle is the duration of the speech.
+I went through the transcripts of both speeches sentence by sentence.
+I marked each factual claim, evaluated it, and labeled it.
+
+It ended up looking like this:
+
+{{< figure src="/media/fact-checking/sample.png" alt="Example fact check document" caption="" class="big" >}}
+
+You can read my annotated transcripts for [RFK Jr.'s](https://fact-check.brady.fyi/documents/3f744445-0703-4baf-8925-8fe8f5937462) and [Buttigieg's](https://fact-check.brady.fyi/documents/daceccbe-2c3d-4519-8c79-dce01f173536) speeches.
+
+
+The graphics below show the results.
+The width of the rectangle is the duration of the speech.
 Red and yellow sections mark false claims; blue sections mark true claims.
 
-Here is the result of fact-checking **RFK Jr's** Health and Human Services press conference on autism rates on April 16, 2025.
-[You can read my full fact-check here](https://fact-check.brady.fyi/documents/3f744445-0703-4baf-8925-8fe8f5937462).
+Here is the result of [fact-checking **RFK Jr's** Health and Human Services press conference](https://fact-check.brady.fyi/documents/3f744445-0703-4baf-8925-8fe8f5937462) on autism rates on April 16, 2025.
 
 {{< figure src="/media/fact-checking/rfkjr.png" alt="Results of the fact check on RFK Jr's speech" caption="" class="big" >}}
 
-Here is the result of fact-checking **Pete Buttigieg's** press conference on railway safety on April 4, 2022.
-[You can read my full fact-check here](https://fact-check.brady.fyi/documents/daceccbe-2c3d-4519-8c79-dce01f173536).
+Here is the result of fact-checking [**Pete Buttigieg's** press conference]((https://fact-check.brady.fyi/documents/daceccbe-2c3d-4519-8c79-dce01f173536)) on railway safety on April 4, 2022.
 
 {{< figure src="/media/fact-checking/buttigieg.png" alt="Results of the fact check on RFK Jr's speech" caption="" class="big" >}}
 
