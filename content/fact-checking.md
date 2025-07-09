@@ -74,7 +74,6 @@ It ended up looking like this:
 
 You can read my annotated transcripts for [RFK Jr.'s](https://fact-check.brady.fyi/documents/3f744445-0703-4baf-8925-8fe8f5937462) and [Buttigieg's](https://fact-check.brady.fyi/documents/daceccbe-2c3d-4519-8c79-dce01f173536) speeches.
 
-
 The graphics below show the results.
 The width of the rectangle is the duration of the speech.
 Red and yellow sections mark false claims; blue sections mark true claims.
@@ -83,7 +82,7 @@ Here is the result of [fact-checking **RFK Jr's** Health and Human Services pres
 
 {{< figure src="/media/fact-checking/rfkjr.png" alt="Results of the fact check on RFK Jr's speech" caption="" class="big" >}}
 
-Here is the result of fact-checking [**Pete Buttigieg's** press conference]((https://fact-check.brady.fyi/documents/daceccbe-2c3d-4519-8c79-dce01f173536)) on railway safety on April 4, 2022.
+Here is the result of [fact-checking **Pete Buttigieg's** press conference]((https://fact-check.brady.fyi/documents/daceccbe-2c3d-4519-8c79-dce01f173536)) on railway safety on April 4, 2022.
 
 {{< figure src="/media/fact-checking/buttigieg.png" alt="Results of the fact check on RFK Jr's speech" caption="" class="big" >}}
 
