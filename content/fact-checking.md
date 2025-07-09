@@ -59,9 +59,7 @@ The goal is this:
 
 ## RFK Jr. and Pete Buttigieg
 
-To demonstrate this, I fact-checked two speeches: [one from RFK Jr. about autism rates](https://www.youtube.com/watch?v=ZUq0GLvgqRs), and [one from Pete Buttigieg about railway safety](https://youtu.be/tCvozJkvU0k?t=164).
-
-They are both official press conferences as Cabinet secretaries.
+To demonstrate this, I fact-checked two speeches: [one from RFK Jr. about autism rates](https://www.youtube.com/watch?v=ZUq0GLvgqRs), and [one from Pete Buttigieg about railway safety](https://youtu.be/tCvozJkvU0k?t=164). They are both official press conferences from Cabinet secretaries.
 
 I acted like a newsroom fact-checker. This means:
 * I did not analyze the overall arguments ([PBS and many others already did a great job at that](https://www.pbs.org/newshour/politics/fact-checking-robert-f-kennedy-jr-s-statements-on-autism)). I simply noted how many individual sentences were lies.
