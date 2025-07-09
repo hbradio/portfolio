@@ -113,7 +113,7 @@ There's no reason to think they do not represent the best these politicians have
 [Buttigieg's falsehoods](https://fact-check.brady.fyi/documents/daceccbe-2c3d-4519-8c79-dce01f173536) were:
 * Exaggeration (saying "tens of thousands" when the number was 13,000)
 * A broad, unverifiable claim about historic trends
-* Claiming "99% of comments were positive", when it wasn't quite that high
+* Using the phrase "99%" too casually
 
 #### Did you use AI to do the fact-checking?
 
