@@ -32,6 +32,8 @@ But to compare two politician's lying, I need a different strategy.
 
 I want to know: how often does each politician lie? 
 But how can I answer that?
+PolitiFact's haphazard sampling doesn't work.
+But what else could I do?
 Hook a microphone to every politician and assign a team of 100 to fact check every word?
 
 What we're fighting is [Brandolini's Law](https://en.wikipedia.org/wiki/Brandolini%27s_law):
@@ -39,18 +41,18 @@ What we're fighting is [Brandolini's Law](https://en.wikipedia.org/wiki/Brandoli
 > The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it.
 
 Every week there's a new press conference, a new podcast appearance, a hundred new tweets.
-It would be impossible to keep up.
+It would be impossible to keep up with fact checking everything.
 
-Let's do what we do when we have too many things to count or classify: let's sample.
+So let's revist sampling, but take a different approach.
 
 ## Sampling
 
-As Brandolini's Law points out, it would be impossible continually to check every claim that a politician makes.
-But, once we've evaluated a sample, maybe we don't need to.
+We've established that it would be impossible to check continually every claim that a politician makes.
+But, if we properly evaluate a sample, maybe we don't need to.
 
-**Let's take an entire speech from a politician and fact-check *every declarative sentence***.
+**Let's take *an entire speech* as a sample and fact-check *every declarative sentence***.
 
-Investing the time to completely and exhaustively fact check a lengthy sample of text allows us to establish a rate of lying.
+Investing the time to exhaustively fact check a lengthy sample of text allows us to establish a rate of lying.
 Once we have this, we can allow ourselves to detach from the firehose of new content.
 
 The goal is this:
@@ -60,10 +62,6 @@ The goal is this:
 ## RFK Jr. and Pete Buttigieg
 
 To demonstrate this, I fact-checked two speeches: [one from RFK Jr. about autism rates](https://www.youtube.com/watch?v=ZUq0GLvgqRs), and [one from Pete Buttigieg about railway safety](https://youtu.be/tCvozJkvU0k?t=164). They are both official press conferences from Cabinet secretaries.
-
-I acted like a newsroom fact-checker. This means:
-* I did not analyze the overall arguments ([PBS and many others already did a great job at that](https://www.pbs.org/newshour/politics/fact-checking-robert-f-kennedy-jr-s-statements-on-autism)). I simply noted how many individual sentences were lies.
-* I did not evaluate whether a false claim worked for or against the overall argument. I only considered whether it was true or not.
 
 I went through the transcripts of both speeches sentence by sentence.
 I marked each factual claim, evaluated it, and labeled it.
@@ -113,7 +111,7 @@ There's no reason to think they do not represent the best these politicians have
 [Buttigieg's falsehoods](https://fact-check.brady.fyi/documents/daceccbe-2c3d-4519-8c79-dce01f173536) were:
 * Exaggeration (saying "tens of thousands" when the number was 13,000)
 * A broad, unverifiable claim about historic trends
-* Using the phrase "99%" too casually
+* Using the term "99%" too casually
 
 #### Did AI do the fact checking?
 
@@ -124,6 +122,8 @@ I did occasionally use ChatGPT as a search engine while fact checking.
 #### Aren't you just nitpicking? You’re just looking at problems with individual sentences. Couldn’t his whole argument still be true?
 
 That’s up to you to decide, and it’s easier to decide when you know whether the individual sentences are true.
+
+If you're looking for a rebuttal to RFK Jr.'s argument, [PBS did a great job at that](https://www.pbs.org/newshour/politics/fact-checking-robert-f-kennedy-jr-s-statements-on-autism).
 
 #### Where can I learn more about this?
 
