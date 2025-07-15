@@ -57,9 +57,9 @@ teaching 📜.
 
 ### Currently Reading
 
-{{< figure src="https://m.media-amazon.com/images/I/61p2K868gYL._AC_UF1000,1000_QL80_.jpg" alt="Children: The Challenge cover" title="Children: The Challenge (1964)" width="200"class="tile">}}
+{{< figure src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaPwkBDWPvhQdqQUY4vFF0LW5-yaEw4KCLoA&s" alt="Augustus cover" title="Augustus by John Williams" width="200"class="tile">}}
 
-{{< figure src="https://m.media-amazon.com/images/I/610vACOacXL._AC_UF1000,1000_QL80_.jpg" alt="Plato's Republic cover" title="Plato's Republic " width="200" class="tile">}}
+{{< figure src="https://m.media-amazon.com/images/I/41TtIz6hLWL._SY445_SX342_.jpg" alt="Nicomachean Ethics cover" title="Aristotle's Nichomachean Ethics" width="200" class="tile">}}
 
 ### All-time Favorites
 
