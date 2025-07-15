@@ -8,7 +8,7 @@ date: "2025-07-08"
 ## "But Don't All Politicians Lie?"
 
 In 2015, Angi Drobnic Holan published [a wonderful article titled "All Politicians Lie. Some Lie More Than Others."](https://www.nytimes.com/2015/12/13/opinion/campaign-stops/all-politicians-lie-some-lie-more-than-others.html)
-In it, she makes the case that while all politicians lie, there are meaningful differences in how often and how severely do so.
+In it, she makes the case that while all politicians lie, there are meaningful differences in how often and how severely they do so.
 
 Here is the graphic from her piece:
 
