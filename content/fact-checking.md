@@ -5,7 +5,7 @@ date: "2025-07-08"
 
 *[Brady Hurlburt](/) - July 8, 2025*
 
-## "All Politicians Lie"
+## "But Don't All Politicians Lie?"
 
 In 2015, Angi Drobnic Holan published [a wonderful article titled "All Politicians Lie. Some Lie More Than Others."](https://www.nytimes.com/2015/12/13/opinion/campaign-stops/all-politicians-lie-some-lie-more-than-others.html)
 In it, she makes the case that while all politicians lie, there are meaningful differences in how often and how severely do so.
@@ -121,4 +121,4 @@ If you're looking for a rebuttal to RFK Jr.'s argument, [PBS did a great job](ht
 
 #### Where can I learn more about this?
 
-Check out [this paper](https://journals.sagepub.com/doi/10.1177/2053168019870351) on the effects of summary of fact-checking.
+Check out [this paper](https://journals.sagepub.com/doi/10.1177/2053168019870351) on the effects of summary of fact-checks.
