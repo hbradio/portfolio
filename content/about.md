@@ -69,7 +69,7 @@ teaching 📜.
 
 ## Favorite Movies 📺
 
-{{< figure src="allwatched.jpg" alt="All Watched Over cover" title="All Watched Over By Machines of Loving Grace by Adam Curtis (2011)" width="200" class="tile">}}
+{{< figure src="media/allwatched.jpg" alt="All Watched Over cover" title="All Watched Over By Machines of Loving Grace by Adam Curtis (2011)" width="200" class="tile">}}
 
 ## Favorite Conference Talks 🎤
 
