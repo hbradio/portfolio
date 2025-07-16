@@ -86,7 +86,7 @@ I cannot continually fact-check every new thing he says, but I can reference the
 
 And is this the same for every other politician?
 No.
-You can see in this example that RFK Jr's rate of lying is meaningfully different than Pete Buttigieg's.
+You can see in this example that RFK Jr.'s rate of lying is meaningfully different than Pete Buttigieg's.
 
 ## FAQ
 
