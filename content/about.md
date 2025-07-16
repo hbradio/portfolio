@@ -45,7 +45,7 @@ teaching 📜.
 
 ### Recent favorites
 
-{{< figure src="https://f4.bcbits.com/img/a3458486000_10.jpg" alt="Utopia Now! cover" title="Rosie Tucker - Utopia Now! (2024)" width="200" class="tile">}}
+{{< figure src="/media/utopia-now.jpg" alt="Utopia Now! cover" title="Rosie Tucker - Utopia Now! (2024)" width="200" class="tile">}}
 
 ### All-time favorites
 
@@ -57,19 +57,19 @@ teaching 📜.
 
 ### Currently Reading
 
-{{< figure src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaPwkBDWPvhQdqQUY4vFF0LW5-yaEw4KCLoA&s" alt="Augustus cover" title="Augustus by John Williams" width="200"class="tile">}}
+{{< figure src="/media/augustus.jpeg" alt="Augustus cover" title="Augustus by John Williams" width="200"class="tile">}}
 
-{{< figure src="https://m.media-amazon.com/images/I/41TtIz6hLWL._SY445_SX342_.jpg" alt="Nicomachean Ethics cover" title="Aristotle's Nichomachean Ethics" width="200" class="tile">}}
+{{< figure src="/media/nico.jpg" alt="Nicomachean Ethics cover" title="Aristotle's Nichomachean Ethics" width="200" class="tile">}}
 
 ### All-time Favorites
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Democracy_and_Education_title_page.jpg" alt="Democracy and Education cover" title="Democracy and Education by John Dewey (1916)" width="200" class="tile">}}
 
-{{< figure src="https://m.media-amazon.com/images/I/61tRhoyIRJL._AC_UF1000,1000_QL80_.jpg" alt="To Save Everything, Click Here" title="To Save Everything, Click Here by Evgeny Morozov (2013)" width="200" class="tile">}}
+{{< figure src="/media/clickhere.jpg" alt="To Save Everything, Click Here" title="To Save Everything, Click Here by Evgeny Morozov (2013)" width="200" class="tile">}}
 
 ## Favorite Movies 📺
 
-{{< figure src="https://m.media-amazon.com/images/M/MV5BNWEzM2NjYjctZDYzNS00ZmZiLTg0YjctOTFiZTIyZjQ2ZGQzXkEyXkFqcGdeQXVyODYxNjcxMQ@@._V1_FMjpg_UX1000_.jpg" alt="All Watched Over cover" title="All Watched Over By Machines of Loving Grace by Adam Curtis (2011)" width="200" class="tile">}}
+{{< figure src="allwatched.jpg" alt="All Watched Over cover" title="All Watched Over By Machines of Loving Grace by Adam Curtis (2011)" width="200" class="tile">}}
 
 ## Favorite Conference Talks 🎤
 
