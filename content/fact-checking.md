@@ -14,7 +14,7 @@ Here is the graphic from her piece:
 
 {{< figure src="/media/fact-checking/nyt.png" alt="Holan's analysis of PolitiFact lyting rates from her NYT article" caption="" class="big" >}}
 
-Her article resonates with me because indifference to political dishonesty is surprisingly common in my circle.
+Her article resonates with me because indifference to political dishonesty is surprisingly common in my circles.
 In conversations with my peers, when I call out a politician's lie, I'm sometimes met with **"Yeah, but politicians on both sides lie."**
 I thought that Holan's methods could help me argue that not every politician lies to the same degree.
 
