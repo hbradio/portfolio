@@ -25,6 +25,7 @@ Your browser does not support the video tag.
 ## Setup
 
 ```
+# First, install Xcode from the App Store. Then,
 git clone https://github.com/ggml-org/whisper.cpp.git && cd whisper.cpp
 brew install sdl2  # required for whisper-live
 cmake -B build -DWHISPER_COREML=1 -DWHISPER_SDL2=ON
