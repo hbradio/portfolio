@@ -34,12 +34,12 @@ cmake --build build --config Release
 ## Run
 Open three terminals.
 
-First terminal:
+First terminal, run whisper.cpp transcription:
 ```
 ./build/bin/whisper-stream -m ./models/ggml-base.en.bin -t 8 --step 500 --keep 2500 --length 5000 -f transcript.txt
 ```
 
-Second terminal:
+Second terminal, clean up the transcription:
 ```
 tail -F ./transcript.txt | \
 while IFS= read -r line; do
@@ -57,7 +57,7 @@ while IFS= read -r line; do
 done
 ```
 
-Third terminal:
+Third terminal, burn the transcription into your video with FFmpeg:
 ```
 # Find your webcam and note its index
 ffmpeg -f avfoundation -list_devices true -i ""
