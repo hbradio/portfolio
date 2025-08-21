@@ -1,7 +1,7 @@
 ---
 title: "Releasting Shoes"
 date: "2025-03-05"
-draft: false
+draft: true
 tags:
   - Projects
 ---
@@ -17,4 +17,3 @@ when I wear them.
 I think they might be too narrow?
 
 {{< figure src="/media/relasting-shoes/1901s.jpeg" alt="Nordstrom 1901 suede chukka boots" caption="Nordstrom 1901 suede chukka boots" class="big" >}}
-
