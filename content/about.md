@@ -6,7 +6,7 @@ date = "2024-11-20"
 
 # Hi, I'm Brady Hurlburt. 👋
 
-I live in Chicago with my wife and kiddos. I'm interested in philosophies of learning 📚 and in playing and teaching music 🎹. I work as a big-data pipeline engineer 📊 at Salesforce.
+I live in Chicago with my wife and kiddos. I'm interested in philosophies of learning 📚 and in playing and teaching music 🎹. I work as a software engineer.
 
 {{< figure src="https://i.imgur.com/q7DxgFS.png" alt="Self Portrait" title="Self Portrait 2024" width="400">}}
 
@@ -45,7 +45,9 @@ teaching 📜.
 
 ### Recent favorites
 
-{{< figure src="/media/utopia-now.jpg" alt="Utopia Now! cover" title="Rosie Tucker - Utopia Now! (2024)" width="200" class="tile">}}
+{{< figure src="https://f4.bcbits.com/img/a4046446795_16.jpg" alt="CRACK A SMILE COME ON STAY A WHILE cover" title="Abby Holliday- Crack a Smile Come on Stay a While (2024)" width="200" class="tile">}}
+
+{{< figure src="https://f4.bcbits.com/img/a1324022477_16.jpg" alt="nuvolascura cover" title="Nuvolascura - Nuvolascura (2019)" width="200" class="tile">}}
 
 ### All-time favorites
 
