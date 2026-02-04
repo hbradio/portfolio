@@ -45,7 +45,7 @@ teaching 📜.
 
 ### Recent favorites
 
-{{< figure src="https://f4.bcbits.com/img/a4046446795_16.jpg" alt="CRACK A SMILE COME ON STAY A WHILE cover" title="Abby Holliday- Crack a Smile Come on Stay a While (2024)" width="200" class="tile">}}
+{{< figure src="https://f4.bcbits.com/img/a4046446795_16.jpg" alt="CRACK A SMILE COME ON STAY A WHILE cover" title="Abby Holliday- Crack a Smile ... (2024)" width="200" class="tile">}}
 
 {{< figure src="https://f4.bcbits.com/img/a1324022477_16.jpg" alt="nuvolascura cover" title="Nuvolascura - Nuvolascura (2019)" width="200" class="tile">}}
 
